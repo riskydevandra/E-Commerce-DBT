@@ -1,0 +1,1001 @@
+transaction_id,order_date,customer_id,customer_name,country,product_id,product_category,quantity,price,payment_method,order_status
+T1,2026-01-18,C244,Ronnie Golden,FR,P135,Home,5,269.33,PayPal,Cancelled
+T2,2025-12-04,C278,Kaitlin Collins,US,P179,Electronics,4,484.54,Debit Card,Completed
+T3,2026-05-22,C283,Gwendolyn Wilson,FR,P145,Electronics,4,97.76,Credit Card,Returned
+T4,2026-08-02,C1,Nicholas Richardson,IN,P46,Sports,3,255.03,PayPal,Returned
+T5,2025-09-24,C18,Brian Martin,DE,P94,Books,5,47.42,Debit Card,Completed
+T6,2026-03-12,C24,Ryan Taylor,DE,P52,Home,5,44.97,Credit Card,Returned
+T7,2025-12-14,C86,Kim Tran,US,P128,Electronics,4,434.16,PayPal,Returned
+T8,2026-04-26,C49,Arthur Clark,XYZ,P42,Home,5,170.89,Debit Card,Returned
+T9,2025-12-17,C141,Destiny Becker,UK,P104,Home,2,418.6,UPI,Cancelled
+T10,2025-10-27,C136,Mark Henry,DE,P113,Books,4,405.74,Debit Card,Returned
+T11,2025-11-16,C93,Kristina Rogers,AU,P23,Home,1,367.72,Credit Card,Completed
+T12,2026-05-23,C157,Jacob Blanchard,IN,P67,Books,1,364.96,Credit Card,Cancelled
+T13,2026-04-23,C69,Paul Chandler,IN,P27,Books,3,76.09,UPI,Returned
+T14,2025-12-20,C169,Lisa Wilkinson,UK,P64,Electronics,5,123.32,PayPal,Returned
+T15,2026-05-06,C277,Daniel Black,UK,P173,Sports,5,29.01,UPI,Completed
+T16,2026-04-14,C139,Michael Cruz,FR,P123,Sports,1,40.14,UPI,Returned
+T17,2025-08-27,C184,Andrea Turner,IN,P186,Books,2,255.47,Credit Card,Completed
+T18,2025-08-30,C187,Erica Dorsey,UK,P147,Books,4,428.57,PayPal,Cancelled
+T19,2026-07-15,C62,Julie Hernandez,AU,P82,Electronics,1,76.49,Credit Card,Cancelled
+T20,2025-12-28,C247,Christopher Grant,CA,P57,Clothing,5,44.66,UPI,Completed
+T21,2025-12-30,C186,Jennifer May,IN,P128,Home,4,483.15,Credit Card,Cancelled
+T22,2025-10-14,C57,John Mendoza,CA,P96,Electronics,5,111.35,PayPal,Cancelled
+T23,2026-02-05,C106,Danny Erickson,AU,P68,Clothing,2,218.46,PayPal,Returned
+T24,2025-11-18,C90,Joseph Davis,FR,P9,Books,3,56.53,Debit Card,Cancelled
+T25,2026-06-19,C231,Joe Bush,IN,P115,Home,2,228.46,PayPal,Completed
+T26,2026-02-15,C2,Brittany Wood,FR,P117,Electronics,2,59.96,UPI,Completed
+T27,2026-01-27,C251,Lori Parsons,FR,P81,Electronics,5,251.63,UPI,Returned
+T28,2025-11-29,C297,Sherri Bishop,CA,P118,Books,2,474.84,PayPal,Cancelled
+T29,2025-10-03,C295,Tonya White,UK,P24,Home,4,65.29,Debit Card,Completed
+T30,2025-10-26,C48,Richard Garza,DE,P42,Electronics,4,373.19,Debit Card,Returned
+T31,2025-08-28,C292,Michael Oliver,AU,P60,Clothing,2,52.15,PayPal,Completed
+T32,2026-08-03,C128,Corey Garcia,US,P135,Home,2,95.12,Credit Card,Completed
+T33,2026-02-06,C298,Edwin Lewis,DE,P110,Electronics,3,48.59,UPI,Returned
+T34,2025-11-10,C270,Joshua Francis,FR,P107,Books,5,403.49,PayPal,Cancelled
+T35,2026-02-21,C95,Jeremiah Williams,AU,P177,Home,2,117.39,PayPal,Completed
+T36,2026-03-16,C82,Lisa Castillo,DE,P178,Sports,5,468.33,Credit Card,Cancelled
+T37,2026-06-17,C138,Sean Woods,AU,P191,Home,1,142.96,Credit Card,Cancelled
+T38,2026-05-30,C98,Stephanie Hodge,DE,P173,Electronics,1,453.12,PayPal,Returned
+T39,2026-06-16,C23,Paul Cooper,IN,P94,Home,2,198.17,Credit Card,Returned
+T40,2025-10-13,C119,Joshua Cook,IN,P21,Books,1,150.55,Credit Card,Cancelled
+T41,2026-01-03,C214,Anthony Green,AU,P162,Books,4,50.02,PayPal,Returned
+T42,2025-09-09,C58,Matthew Kelley,DE,P24,Clothing,5,10.88,UPI,Returned
+T43,2026-02-02,C113,Paul Burnett,US,P136,Electronics,4,118.8,Debit Card,Cancelled
+T44,2025-10-13,C203,Jake Gregory,AU,P144,Books,5,456.68,PayPal,Completed
+T45,2025-12-06,,Christopher Salazar,US,P167,Electronics,5,244.6,PayPal,Completed
+T46,2026-01-12,C51,Christopher Williams,UK,P198,Home,5,194.95,UPI,Cancelled
+T47,2026-05-20,C37,Manuel Wang,IN,P2,Electronics,2,441.85,UPI,Completed
+T48,2026-04-18,C24,Louis Martinez,IN,P56,Books,-1,456.33,Debit Card,Returned
+T49,2026-04-13,C290,Bonnie Cline,CA,P12,Electronics,1,360.94,UPI,Cancelled
+T50,2026-06-18,C77,Melissa Mathews,DE,P49,Sports,4,51.04,Credit Card,Completed
+T51,2025-10-09,C97,Daniel Martin,US,P83,Books,-5,30.3,UPI,Cancelled
+T52,2025-10-22,C167,Courtney Martin,US,P168,Clothing,4,372.48,Credit Card,Completed
+T53,2026-05-26,C120,Christopher Brooks,UK,P159,Home,3,298.57,Debit Card,Completed
+T54,2026-07-03,,Ashley Swanson,DE,P119,Books,1,35.79,Debit Card,Cancelled
+T55,2026-05-14,C218,Vincent Freeman,IN,P196,Books,3,22.19,Debit Card,Completed
+T56,2026-05-12,C167,Kathy Ramirez,AU,P111,Sports,2,313.98,Credit Card,Returned
+T57,2026-03-01,C275,Autumn Snyder,DE,P173,Sports,2,50.98,Credit Card,Completed
+T58,2026-01-31,C243,Brianna Allen,IN,P93,Clothing,1,321.31,PayPal,Cancelled
+T59,2026-07-01,C276,Jonathan Sanders,AU,P55,Electronics,5,259.69,PayPal,Cancelled
+T60,2025-08-24,C215,Nicholas Perez,CA,P184,Clothing,3,268.34,Credit Card,Completed
+T61,2025-11-08,C42,Rhonda Cooper,UK,P171,Sports,4,241.27,Debit Card,Returned
+T62,2026-07-04,C46,Mrs. Kristin Rodriguez,US,P106,Books,1,77.65,PayPal,Returned
+T63,2026-05-30,C195,Jessica Murray,AU,P116,Electronics,2,317.51,Credit Card,Completed
+T64,2025-10-30,C148,John Turner,UK,P47,Clothing,4,240.78,PayPal,Cancelled
+T65,2025-11-06,C152,Daniel Woods,AU,P65,Sports,5,165.31,PayPal,Cancelled
+T66,2025-09-11,C296,Amanda Lewis,CA,P4,Clothing,1,197.68,UPI,Cancelled
+T67,2025-12-21,C159,Jeremy Jones,AU,P130,Clothing,3,452.86,Debit Card,Completed
+T68,2026-01-05,C122,Michael Armstrong,DE,P94,Electronics,3,379.01,UPI,Completed
+T69,2026-02-07,C126,Phyllis Byrd,DE,P134,Home,2,234.54,UPI,Returned
+T70,2026-04-21,C116,Alejandra Wise,DE,P122,Clothing,5,383.42,Debit Card,Cancelled
+T71,2026-07-11,C233,Alex Kirby,IN,P62,Sports,2,134.27,Credit Card,Completed
+T72,2026-01-17,C286,Bob Martin,UK,P122,Books,4,394.44,Debit Card,Cancelled
+T73,2026-04-17,C226,Thomas Gomez,CA,P102,Electronics,2,50.77,UPI,Returned
+T74,2026-07-06,C79,Gary Fleming,FR,P96,Home,2,258.13,Credit Card,Returned
+T75,2025-12-19,C173,Kelly Peterson,FR,P105,Home,4,206.55,UPI,Returned
+T76,2026-04-06,C71,Joseph Short,FR,P6,Books,5,44.41,Credit Card,Returned
+T77,2026-04-19,C171,Theodore Lewis,XYZ,P156,Books,5,156.1,Credit Card,Completed
+T78,2026-08-05,C296,Christine Sanchez,IN,P27,Books,4,219.62,Credit Card,Returned
+T79,2025-09-06,C77,Mr. Devin Waters,AU,P114,Home,1,136.05,Debit Card,Completed
+T80,2025-11-05,C34,Daniel Taylor,UK,P112,Home,1,289.16,Debit Card,Cancelled
+T81,2026-08-11,C224,Eric Kennedy,DE,P175,Books,4,106.93,UPI,Returned
+T82,2025-11-14,C3,Heather Wells,FR,P58,Electronics,1,278.94,Debit Card,Completed
+T83,2026-05-19,C77,Mark Murphy,AU,P164,Electronics,2,119.94,Debit Card,Cancelled
+T84,2026-05-05,C65,Robert Carter,DE,P81,Books,4,197.62,Debit Card,Returned
+T85,2025-12-25,C264,Alexandria Morgan,CA,P70,Sports,1,183.97,UPI,Returned
+T86,2026-05-07,C91,Ryan Brewer,CA,P147,Sports,5,396.31,Credit Card,Returned
+T87,2026-06-23,C22,Dr. Abigail Oconnor,CA,P68,Electronics,4,185.03,UPI,Completed
+T88,2026-02-04,C186,Mckenzie Mckinney,DE,P89,Clothing,3,481.11,PayPal,Cancelled
+T89,2026-03-23,C93,Monica White,DE,P168,Home,3,208.05,Credit Card,Returned
+T90,2025-11-26,C239,Christopher Cunningham,AU,P196,Clothing,1,314.37,UPI,Returned
+T91,2025-09-23,C55,Ryan Fernandez,FR,P104,Sports,5,399.07,Credit Card,Returned
+T92,2026-07-19,C127,Alex Shaw,CA,P33,Books,2,78.8,PayPal,Cancelled
+T93,2025-10-17,C125,Christian Clark,IN,P156,Clothing,3,158.43,UPI,Cancelled
+T94,2025-12-20,C166,Brenda Mckenzie,FR,P88,Clothing,5,417.93,Debit Card,Cancelled
+T95,2026-03-04,C287,Garrett Reed,US,P114,Books,5,32.0,UPI,Returned
+T96,2026-01-06,C128,James Herring,FR,P4,Books,4,339.12,UPI,Returned
+T97,2026-02-17,C296,Michael Grimes,DE,P97,Sports,1,179.55,PayPal,Completed
+T98,2026-05-07,C34,Juan Torres,UK,P11,Sports,4,196.04,Debit Card,Cancelled
+T99,2026-04-13,C229,Kerry Cummings,AU,P192,Home,4,121.68,PayPal,Cancelled
+T100,2026-03-04,C159,Melissa Ramsey,CA,P62,Books,4,495.98,PayPal,Completed
+T101,2026-03-11,C2,Tracy Wallace,FR,P114,Sports,5,78.21,UPI,Cancelled
+T102,2026-04-28,C297,Russell Bowers,FR,P149,Sports,3,266.54,Credit Card,Completed
+T103,2026-04-21,C34,Roy Garner,FR,P92,Books,5,366.03,PayPal,Cancelled
+T104,2026-07-13,C290,Amanda Buchanan,UK,P185,Home,2,276.64,PayPal,Cancelled
+T105,2026-06-04,C93,Tammy Young,US,P166,Clothing,4,360.67,UPI,Cancelled
+T106,2026-03-03,C242,Anthony Rodriguez,US,P175,Electronics,1,175.94,Credit Card,Completed
+T107,2026-06-20,C156,Benjamin Marquez,US,P140,Clothing,2,41.77,PayPal,Cancelled
+T108,2025-10-27,C297,Richard White,FR,P169,Sports,4,97.31,UPI,Returned
+T109,2025-10-15,C85,Steven Oliver,UK,P151,Books,5,450.46,Credit Card,Returned
+T110,2026-06-06,C53,Richard Rosales,DE,P68,Home,3,197.25,Credit Card,Returned
+T111,2026-01-25,C202,Casey Chavez,CA,P46,Home,3,432.22,Debit Card,Cancelled
+T112,2025-09-11,C14,Rebecca Zamora,US,P131,Books,2,204.55,Credit Card,Cancelled
+T113,2025-09-14,C126,Michelle Wilson,AU,P161,Books,4,44.31,Debit Card,Completed
+T114,2025-11-04,C119,Cynthia Young,US,P103,Sports,4,119.15,UPI,Returned
+T115,2026-02-21,C50,Megan Cooper MD,UK,P22,Books,4,364.02,PayPal,Returned
+T116,2025-08-15,C76,Roy Graham,UK,P22,Clothing,1,415.84,Debit Card,Cancelled
+T117,2025-10-17,C229,Ashley Rodriguez,XYZ,P189,Home,4,145.91,Credit Card,Cancelled
+T118,2025-09-15,C116,Randy Strickland,CA,P152,Clothing,5,85.19,Debit Card,Cancelled
+T119,2026-03-09,C14,Morgan Valdez,XYZ,P71,Home,3,433.38,Debit Card,Completed
+T120,2025-12-21,C39,Joseph Taylor,US,P114,Clothing,5,63.69,UPI,Returned
+T121,2025-10-06,C261,Caitlin Wright,FR,P133,Clothing,5,447.99,Credit Card,Returned
+T122,2025-12-28,C55,Shari Williams,FR,P88,Books,5,54.66,Debit Card,Returned
+T123,2026-05-07,C229,Amanda Stephens,CA,P186,Sports,3,267.74,Debit Card,Cancelled
+T124,2025-10-25,C78,Donald Cortez,IN,P194,Books,5,135.92,Debit Card,Returned
+T125,2025-11-24,C196,Alexis Huffman,UK,P5,Clothing,3,264.12,Credit Card,Completed
+T126,2026-04-07,C298,Christine Ewing,CA,P21,Sports,1,258.06,UPI,Cancelled
+T127,2025-11-12,C156,Kathleen Richard,UK,P15,Sports,1,293.08,PayPal,Cancelled
+T128,2026-02-11,C212,Steven Galloway,US,P71,Sports,1,213.38,Credit Card,Cancelled
+T129,2025-11-01,C188,Melanie Perez,FR,P129,Electronics,4,332.62,Debit Card,Cancelled
+T130,2026-07-28,C1,Dana Walker,FR,P184,Sports,1,277.7,PayPal,Returned
+T131,2026-02-09,C103,Jared Salinas,US,P94,Sports,2,368.38,Debit Card,Cancelled
+T132,2025-12-15,C21,Jamie Mckenzie,IN,P185,Sports,2,257.28,Debit Card,Cancelled
+T133,2025-11-07,C91,Eric Kane,DE,P47,Books,4,162.33,PayPal,Returned
+T134,2026-05-04,C22,Margaret Rodriguez,FR,P195,Clothing,1,487.85,Credit Card,Completed
+T135,2025-09-01,C103,Lee Willis,IN,P30,Electronics,2,83.89,Credit Card,Completed
+T136,2026-02-22,C267,Dennis Perkins,UK,P174,Books,5,86.83,UPI,Cancelled
+T137,2026-03-12,C224,Richard Burton,US,P8,Books,2,210.31,Credit Card,Cancelled
+T138,2025-12-22,C248,Henry Mcclain,DE,P168,Electronics,3,60.91,UPI,Returned
+T139,2026-07-26,C284,Amanda Swanson,UK,P152,Books,2,29.03,UPI,Cancelled
+T140,2026-02-03,C240,Tammy Morris,AU,P1,Home,2,277.74,UPI,Cancelled
+T141,2026-05-16,C37,Rebecca Williams,US,P169,Books,4,327.99,UPI,Returned
+T142,2026-06-29,C253,Sarah Thomas,US,P52,Books,5,16.2,Debit Card,Completed
+T143,2026-03-24,C198,Katrina Foster,DE,P146,Books,5,357.56,PayPal,Returned
+T144,2025-10-09,,Lydia Lee,IN,P38,Home,2,442.05,Debit Card,Returned
+T145,2026-07-02,C87,Lori King,FR,P135,Sports,4,402.78,Debit Card,Completed
+T146,2026-05-11,C65,Donna Dickerson,FR,P150,Books,3,90.19,UPI,Completed
+T147,2026-02-22,C59,Tiffany White,AU,P118,Sports,2,384.08,Debit Card,Returned
+T148,2025-11-25,C269,Jennifer Smith,CA,P159,Clothing,4,310.39,UPI,Cancelled
+T149,2026-07-15,C158,Kayla Cuevas,UK,P102,Electronics,2,221.93,PayPal,Cancelled
+T150,2026-04-24,C22,Catherine Barnett,IN,P61,Electronics,4,225.53,UPI,Returned
+T151,2025-11-02,C274,Don Luna,CA,P187,Home,-5,346.71,Debit Card,Returned
+T152,2025-12-15,C243,Catherine Morton,CA,P120,Home,5,31.12,UPI,Cancelled
+T153,2025-08-19,C26,Jerry Thomas,IN,P92,Sports,2,374.63,PayPal,Cancelled
+T154,2026-02-22,C268,Nicholas Stewart,DE,P76,Clothing,5,395.01,UPI,Completed
+T155,2026-01-17,C223,Angela Perez,IN,P142,Sports,1,438.29,PayPal,Returned
+T156,2026-02-25,C40,Christine Melendez,US,P104,Clothing,1,77.9,Debit Card,Completed
+T157,2025-09-26,C41,Michael Green,IN,P141,Books,1,33.23,Credit Card,Completed
+T158,2025-11-09,C191,Patricia Parks,UK,P160,Books,5,135.19,UPI,Returned
+T159,2025-09-08,C101,William Pierce,FR,P52,Home,4,420.2,Debit Card,Returned
+T160,2026-01-08,C47,Kevin Logan,AU,P10,Electronics,3,397.6,PayPal,Cancelled
+T161,2026-01-19,C254,Sergio Williams,US,P60,Electronics,1,476.57,UPI,Completed
+T162,2026-07-17,C177,Stephanie Kelly,UK,P97,Sports,2,464.34,UPI,Returned
+T163,2026-01-01,C172,Matthew Baker,IN,P150,Home,2,296.86,Debit Card,Returned
+T164,2025-11-08,C139,John Braun,IN,P14,Home,3,445.67,PayPal,Returned
+T165,2026-03-04,C82,Wyatt Hayden,UK,P63,Home,1,246.78,PayPal,Completed
+T166,2026-01-03,C103,Marie Williams,IN,P135,Clothing,4,302.87,UPI,Returned
+T167,2026-01-21,C75,Robert Mcdonald,DE,P176,Home,5,199.06,PayPal,Returned
+T168,2026-07-11,C134,Amy Ibarra,IN,P103,Home,4,293.0,UPI,Completed
+T169,2026-06-09,C103,Gregory Gonzalez,US,P132,Clothing,1,401.23,PayPal,Returned
+T170,2025-08-27,C213,Theresa Cooley,DE,P34,Sports,3,470.51,PayPal,Completed
+T171,2026-02-23,C212,Mrs. Samantha Erickson,DE,P60,Electronics,3,314.75,PayPal,Cancelled
+T172,2026-07-20,C296,Christopher Reynolds,AU,P117,Home,4,333.11,PayPal,Completed
+T173,2025-12-23,C79,Erin Crane,US,P13,Home,4,53.33,Credit Card,Completed
+T174,2026-08-02,C110,Amber Williams,IN,P121,Electronics,3,472.2,PayPal,Returned
+T175,2025-10-06,C150,Jason Hawkins,FR,P199,Electronics,5,310.41,Debit Card,Completed
+T176,2025-11-14,C44,Kenneth Hanson,IN,P22,Sports,4,358.83,Credit Card,Returned
+T177,2026-08-08,C8,Deborah Mitchell,UK,P65,Clothing,5,45.93,UPI,Cancelled
+T178,2025-08-18,C158,Michael White,FR,P198,Home,2,143.74,Debit Card,Cancelled
+T179,2026-08-01,C34,Matthew Meyers,IN,P64,Sports,3,117.4,Credit Card,Cancelled
+T180,2025-11-23,C114,Cynthia Martin,US,P110,Clothing,2,31.14,Debit Card,Returned
+T181,2026-03-22,C286,Vanessa Williams,IN,P52,Sports,3,29.88,UPI,Returned
+T182,2026-02-13,C164,Tracy Williams,DE,P155,Books,4,58.93,Debit Card,Returned
+T183,2025-09-28,C5,Anne Wells,US,P185,Books,2,126.7,Debit Card,Completed
+T184,2026-09-13 13:55:40.225426,,Patrick Smith,IN,P192,Books,5,275.92,UPI,Returned
+T185,2026-01-26,C106,Ethan Pollard,CA,P86,Books,5,144.32,Credit Card,Cancelled
+T186,2025-12-24,C138,Travis Newton,AU,P2,Clothing,5,149.41,Debit Card,Cancelled
+T187,2025-10-26,C127,Joshua Rodriguez,AU,P53,Sports,2,220.89,Debit Card,Completed
+T188,2025-12-31,C72,Timothy Robinson,UK,P115,Home,2,355.02,PayPal,Cancelled
+T189,2026-07-14,C170,Richard Stewart,AU,P64,Sports,3,334.48,UPI,Completed
+T190,2025-11-19,C154,Tara Johnson,IN,P9,Clothing,1,15.57,PayPal,Cancelled
+T191,2025-08-25,C286,Adam Hernandez,FR,P171,Electronics,2,176.48,UPI,Cancelled
+T192,2026-01-11,C110,Michael Davies,AU,P102,Clothing,2,163.86,Debit Card,Completed
+T193,2026-03-15,C49,Kristin Wagner,DE,P21,Sports,1,224.54,UPI,Completed
+T194,2026-04-12,C144,Rebecca Shannon,CA,P137,Electronics,3,154.33,Credit Card,Returned
+T195,2025-12-22,C297,Michaela Carney,FR,P89,Home,1,230.32,UPI,Returned
+T196,2026-01-06,C201,Meagan Larsen,AU,P110,Clothing,1,114.99,Debit Card,Returned
+T197,2026-04-03,C25,Tina Baker,US,P173,Electronics,5,398.26,Credit Card,Returned
+T198,2026-04-06,C86,Sarah Reeves,CA,P21,Sports,2,95.38,UPI,Completed
+T199,2026-07-09,C146,Maria Miller,IN,P62,Books,1,39.39,Debit Card,Returned
+T200,2026-07-15,C66,Samantha Wilson,DE,P153,Books,4,292.19,Debit Card,Returned
+T201,2025-08-15,C107,Elizabeth Savage,AU,P60,Sports,2,108.1,Credit Card,Cancelled
+T202,2026-05-09,C142,Rachel Horton,AU,P200,Electronics,3,135.36,UPI,Returned
+T203,2025-12-25,C11,Michele Morgan,UK,P22,Clothing,4,24.27,Credit Card,Completed
+T204,2026-06-26,C12,Joshua Patrick,UK,P148,Home,4,165.44,Credit Card,Returned
+T205,2025-12-03,C192,Christopher Miller,CA,P196,Home,2,10.26,UPI,Cancelled
+T206,2025-10-31,C175,Christina Carter,FR,P107,Sports,5,58.95,Debit Card,Returned
+T207,2026-08-01,C13,Mr. Micheal Gonzales MD,DE,P55,Electronics,4,479.97,UPI,Cancelled
+T208,2025-11-13,C241,Alyssa Hernandez,US,P95,Sports,2,273.88,Credit Card,Returned
+T209,2026-06-06,C233,Rhonda Newton,UK,P137,Sports,5,114.42,Debit Card,Completed
+T210,2025-10-23,C251,John Martin,FR,P128,Clothing,4,77.12,Credit Card,Returned
+T211,2026-02-15,C108,Kathryn Mason,DE,P182,Clothing,5,174.48,UPI,Completed
+T212,2026-02-27,C56,Randy Sanders,DE,P150,Electronics,2,281.16,PayPal,Completed
+T213,2026-06-08,C101,Karina Wilson,US,P164,Clothing,2,493.02,UPI,Cancelled
+T214,2025-12-03,C75,Jessica Valdez,IN,P25,Electronics,3,202.66,Credit Card,Cancelled
+T215,2025-10-17,C13,Derrick Shelton,IN,P126,Books,1,378.99,PayPal,Completed
+T216,2025-10-12,C179,Ivan Taylor,AU,P108,Home,5,40.17,Credit Card,Cancelled
+T217,2026-05-19,C141,Donna Jenkins,US,P185,Clothing,4,87.98,Credit Card,Returned
+T218,2026-03-29,C7,Zachary Garcia,FR,P60,Home,5,180.07,PayPal,Completed
+T219,2025-12-22,C217,James Chan,UK,P122,Sports,4,183.36,PayPal,Returned
+T220,2026-03-29,C21,Julian Martin,DE,P58,Clothing,2,439.12,Credit Card,Returned
+T221,2026-01-30,C240,Lori Yoder,AU,P195,Home,2,46.98,Credit Card,Returned
+T222,2026-01-28,C255,Elizabeth Allen,UK,P66,Sports,5,216.2,Debit Card,Returned
+T223,2025-10-26,C158,Evan Johnson,IN,P192,Clothing,2,211.2,UPI,Cancelled
+T224,2026-04-19,C281,Robin Wilson,FR,P145,Books,5,476.25,PayPal,Completed
+T225,2025-11-23,C100,Alan Patterson,IN,P194,Electronics,1,329.93,UPI,Completed
+T226,2025-12-26,C204,Karen Wong,CA,P149,Home,1,360.58,PayPal,Completed
+T227,2026-08-05,C68,Adam Harris,US,P152,Electronics,4,449.03,Credit Card,Returned
+T228,2026-05-28,C41,Samantha Turner,FR,P173,Books,5,482.57,UPI,Returned
+T229,2025-12-29,C42,Kathleen Shepherd,US,P55,Electronics,4,96.93,UPI,Completed
+T230,2026-03-01,C193,Kellie Robinson,DE,P94,Home,3,278.99,PayPal,Cancelled
+T231,2026-07-03,C99,Sean Anderson,AU,P186,Sports,5,60.14,PayPal,Cancelled
+T1,2025-11-28,C113,Alan Quinn,AU,P66,Electronics,1,181.58,Debit Card,Returned
+T233,2025-09-21,C125,Tara Kane,XYZ,P113,Clothing,2,294.59,UPI,Completed
+T234,2026-06-28,C260,Maureen Frank,US,P100,Electronics,3,19.35,PayPal,Completed
+T235,2026-01-20,C284,Stephen Bush,FR,P109,Electronics,3,101.39,Debit Card,Cancelled
+T236,2026-05-26,C34,Jason May,US,P15,Clothing,5,359.9,Debit Card,Returned
+T237,2025-08-15,C201,Samuel Joseph,UK,P113,Books,3,370.15,Credit Card,Returned
+T238,2026-08-13,C131,Donna Gonzalez,AU,P110,Clothing,3,357.41,Debit Card,Completed
+T239,2025-09-14,C234,Kathryn Mcknight,IN,P2,Home,2,80.1,Credit Card,Completed
+T240,2025-10-21,C126,Bryce Ruiz,UK,P82,Electronics,1,350.29,UPI,Cancelled
+T241,2026-01-13,C55,Jerry Edwards,UK,P136,Home,3,306.82,Credit Card,Returned
+T242,2026-07-13,C245,Alexandra Maldonado,IN,P188,Books,2,130.19,Debit Card,Completed
+T243,2026-01-10,C116,Daniel Liu,UK,P153,Home,2,253.17,Credit Card,Returned
+T244,2026-02-11,C1,Jason Hampton,CA,P191,Home,2,186.52,Debit Card,Cancelled
+T245,2025-12-12,C259,Amy Williams,AU,P21,Books,5,376.12,Debit Card,Completed
+T246,2026-04-01,C117,Sarah Ware,US,P27,Home,1,133.05,Debit Card,Cancelled
+T247,2026-05-07,C64,Bryan Johnson,DE,P176,Clothing,3,131.81,PayPal,Cancelled
+T248,2026-01-06,C106,Melinda Ruiz,DE,P67,Electronics,2,292.94,Debit Card,Completed
+T249,2025-10-11,C122,Matthew Wright,US,P200,Electronics,1,269.66,PayPal,Completed
+T250,2026-04-27,C108,Steve Ayala,UK,P97,Sports,5,102.49,PayPal,Returned
+T251,2025-09-12,C81,Linda Pierce,UK,P103,Books,1,383.11,UPI,Returned
+T252,2026-03-21,C159,Brandi Park,DE,P46,Home,4,173.97,Credit Card,Completed
+T253,2025-08-25,C219,Marie Gay,UK,P71,Clothing,1,351.82,Debit Card,Returned
+T254,2026-08-01,C16,Peter Liu,US,P126,Home,3,111.58,UPI,Returned
+T255,2026-05-09,C127,Marissa Guerrero,FR,P62,Books,1,316.55,UPI,Returned
+T256,2025-11-11,C211,Michael Mendoza,IN,P145,Books,1,306.99,Credit Card,Cancelled
+T257,2026-02-27,C7,Jose Marshall,DE,P164,Sports,5,252.64,PayPal,Cancelled
+T258,2025-10-19,C41,Daniel Brock,DE,P45,Books,2,485.06,UPI,Cancelled
+T259,2026-02-09,C137,Nicole Wyatt,CA,P86,Electronics,1,20.89,UPI,Returned
+T260,2026-07-04,C182,Joyce Wilkinson,AU,P47,Sports,2,233.4,PayPal,Cancelled
+T261,2026-05-07,C109,Barbara Riley,CA,P181,Books,2,24.18,Debit Card,Completed
+T262,2026-07-12,C146,Steven Wilson,CA,P183,Books,5,467.96,UPI,Cancelled
+T263,2025-12-10,C157,Nancy Kelley,FR,P88,Clothing,2,369.94,Credit Card,Returned
+T1,2026-04-24,C113,Dr. Kristin Mann MD,US,P28,Electronics,3,329.5,UPI,Cancelled
+T265,2026-02-19,C93,Erica Williams DVM,CA,P151,Books,3,114.25,PayPal,Returned
+T266,2026-03-09,C77,Michael Newman,US,P146,Books,5,420.19,UPI,Cancelled
+T267,2026-07-16,C36,Brittany Brown,IN,P79,Home,3,157.91,PayPal,Cancelled
+T268,2026-07-01,C58,Michael Morton,AU,P9,Sports,4,397.39,PayPal,Returned
+T269,2026-03-10,C60,Barbara Kaiser,FR,P35,Books,5,382.28,PayPal,Cancelled
+T270,2026-01-09,C79,Christopher Gross,CA,P2,Sports,5,309.9,UPI,Completed
+T271,2026-02-06,C249,Jerry Flores,DE,P117,Books,3,153.74,Debit Card,Returned
+T272,2026-04-01,C103,Andrea Rush,UK,P99,Home,4,29.65,UPI,Completed
+T273,2025-10-29,C294,Jordan Hall,IN,P102,Sports,4,72.26,Debit Card,Returned
+T274,2026-01-13,C233,Timothy Carpenter,AU,P138,Electronics,3,119.07,Debit Card,Cancelled
+T275,2026-04-04,C164,Tracy Douglas,US,P112,Clothing,3,98.45,UPI,Completed
+T276,2025-11-24,C28,Jeffery Olson,US,P80,Home,2,127.2,Credit Card,Returned
+T277,2026-06-06,C146,Sherri Torres,DE,P116,Sports,5,273.92,Credit Card,Returned
+T278,2026-02-17,C119,Paul Stokes,IN,P105,Electronics,2,60.01,Debit Card,Completed
+T279,2026-06-07,C137,Charles Gibson,CA,P14,Books,5,192.16,UPI,Cancelled
+T280,2025-12-21,C197,Zachary Wilson,CA,P74,Sports,5,387.21,Credit Card,Returned
+T281,2026-07-22,C249,Margaret Frank,US,P132,Sports,5,405.74,PayPal,Cancelled
+T282,2025-11-11,C82,Christopher Andrews,US,P134,Clothing,2,80.92,UPI,Cancelled
+T283,2025-11-06,C282,Cassie Bush,IN,P139,Sports,1,462.85,PayPal,Returned
+T284,2025-11-10,C76,Luis Moore,UK,P162,Clothing,2,490.59,Debit Card,Completed
+T285,2025-11-04,C197,Julie Bryant,IN,P75,Clothing,4,497.6,PayPal,Returned
+T286,2026-08-03,C93,Sandra Padilla,AU,P186,Home,5,224.89,Credit Card,Returned
+T287,2026-01-04,C71,Mary Tran,US,P104,Electronics,5,466.76,Debit Card,Returned
+T288,2026-05-12,C39,Beth Torres,FR,P142,Home,3,335.07,Credit Card,Cancelled
+T289,2026-06-05,C237,Brandon Snyder,CA,P191,Electronics,5,184.2,Debit Card,Completed
+T290,2026-05-15,C297,John White MD,CA,P199,Home,5,375.75,PayPal,Returned
+T291,2025-08-20,C69,Brandon Ward,IN,P45,Books,3,469.24,UPI,Returned
+T292,2025-09-21,C244,Karen Snyder,FR,P109,Books,5,27.63,UPI,Completed
+T293,2025-12-03,C229,Katrina Lane,FR,P82,Clothing,1,213.99,PayPal,Completed
+T294,2026-09-13 13:55:40.225983,C141,Raven Cruz,DE,P133,Home,3,437.06,Debit Card,Completed
+T295,2026-01-14,C285,Rick Mccormick,CA,P20,Home,4,226.95,Credit Card,Returned
+T296,2026-01-10,C70,Scott Mclaughlin,US,P7,Clothing,3,88.47,Credit Card,Completed
+T297,2026-04-21,C143,Cheyenne Edwards,FR,P94,Clothing,5,23.28,Debit Card,Completed
+T298,2025-08-18,C244,Carlos Richmond,UK,P62,Books,4,487.13,Credit Card,Returned
+T299,2026-02-06,C204,Hannah Garcia,CA,P84,Home,4,399.21,UPI,Completed
+T300,2026-05-09,C205,Brittany Hill,FR,P192,Electronics,4,83.83,Credit Card,Completed
+T301,2026-06-30,C209,Nicole Deleon,CA,P191,Home,1,216.22,PayPal,Cancelled
+T302,2026-01-21,C22,Sydney Hoover,CA,P57,Books,5,193.03,Debit Card,Returned
+T303,2026-01-28,C183,Alexa Moreno,IN,P107,Sports,3,177.68,Debit Card,Completed
+T304,2025-11-09,C201,Stephanie Miranda,DE,P54,Books,5,386.08,UPI,Cancelled
+T305,2026-01-02,C273,John Beard,DE,P126,Electronics,1,315.11,UPI,Cancelled
+T306,2025-09-18,C179,Sarah Gregory,AU,P53,Books,3,200.91,Credit Card,Cancelled
+T307,2026-05-13,C259,Kathryn Church,FR,P21,Electronics,3,392.7,UPI,Cancelled
+T308,2025-10-06,C224,Joseph Garcia,CA,P183,Clothing,3,27.67,Credit Card,Completed
+T309,2026-03-28,C74,Amy Jordan,US,P14,Home,1,188.63,Debit Card,Completed
+T310,2026-03-03,C270,Cynthia Li,AU,P71,Books,2,409.96,Credit Card,Completed
+T311,2025-10-22,C191,Jennifer Phillips,IN,P173,Books,4,457.42,Credit Card,Cancelled
+T312,2026-04-23,C290,Heidi Maxwell,FR,P101,Sports,4,75.14,PayPal,Completed
+T313,2025-11-23,C68,Benjamin Knight,CA,P51,Books,2,292.42,Debit Card,Completed
+T314,2025-09-29,C284,Adrian Cooley,DE,P193,Clothing,5,428.4,Debit Card,Completed
+T315,2025-09-29,C243,Morgan Oconnor,AU,P47,Clothing,1,115.42,UPI,Returned
+T316,2026-02-11,C281,Cheryl Alvarado,FR,P118,Home,5,360.74,UPI,Completed
+T317,2026-04-10,C20,Brett Brown,US,P69,Electronics,1,468.28,UPI,Cancelled
+T318,2025-10-28,C101,Krystal Buckley,IN,P99,Electronics,1,480.06,Debit Card,Cancelled
+T319,2026-02-06,C9,Gloria Edwards,UK,P96,Home,3,10.08,UPI,Returned
+T320,2026-07-22,C115,Melissa Kirk,AU,P38,Sports,4,315.18,PayPal,Completed
+T321,2025-11-30,C161,Manuel Hoover,DE,P114,Sports,5,11.39,Debit Card,Returned
+T322,2026-07-24,C50,Ronald Smith,FR,P14,Electronics,3,109.69,Credit Card,Cancelled
+T323,2025-11-06,C186,Leslie Brown,US,P112,Books,5,-19.035115965150336,Credit Card,Returned
+T324,2025-12-20,C88,Steven Morse,UK,P34,Sports,3,109.64,PayPal,Returned
+T325,2025-11-09,C19,Joseph Perez,UK,P176,Books,4,479.5,Credit Card,Returned
+T326,2026-03-21,C135,Steven Gill,DE,P183,Sports,2,210.45,UPI,Completed
+T327,2026-03-25,C289,Brandon Gonzalez,IN,P142,Electronics,4,279.15,PayPal,Returned
+T328,2025-10-13,C101,Kimberly Caldwell,CA,P97,Sports,2,205.45,UPI,Completed
+T329,2025-10-24,C219,David Adams,UK,P155,Electronics,3,18.47,Credit Card,Cancelled
+T330,2025-09-19,C23,Steve Jones Jr.,IN,P33,Electronics,5,229.87,PayPal,Cancelled
+T331,2025-12-30,C198,David Blankenship,IN,P69,Sports,4,104.9,Debit Card,Cancelled
+T332,2025-10-15,C234,Adam Mcfarland,FR,P59,Electronics,1,425.91,PayPal,Completed
+T333,2025-09-14,C211,Jessica Price,DE,P7,Clothing,2,76.32,Credit Card,Completed
+T334,2026-02-12,C40,Alicia Hernandez,US,P146,Electronics,2,159.49,Credit Card,Returned
+T335,2025-11-11,C67,Elizabeth Robertson,US,P195,Clothing,3,144.72,PayPal,Completed
+T336,2026-06-09,C215,Kimberly Floyd,UK,P127,Books,2,48.06,Debit Card,Completed
+T337,2026-04-01,C163,Christopher Lambert,DE,P97,Electronics,3,27.19,Debit Card,Cancelled
+T338,2025-11-24,C71,Susan Jensen,DE,P102,Home,1,394.08,Credit Card,Completed
+T339,2026-07-08,C257,Robert Rios,US,P2,Electronics,5,197.52,Credit Card,Returned
+T340,2026-04-24,C247,William Frye,AU,P26,Books,3,26.43,PayPal,Cancelled
+T341,2025-12-05,C9,Jordan Lopez,FR,P189,Sports,4,351.27,PayPal,Returned
+T342,2025-11-20,C15,William Long,IN,P41,Sports,5,456.41,Debit Card,Completed
+T343,2026-05-15,C18,Edgar Martinez,CA,P86,Electronics,4,23.12,Debit Card,Cancelled
+T344,2026-02-20,C75,Sarah Summers,FR,P44,Sports,4,59.3,Credit Card,Completed
+T345,2026-06-19,C156,Lindsey Johnson,CA,P29,Sports,5,476.88,PayPal,Returned
+T346,2025-08-20,C105,Justin Bird,FR,P31,Sports,1,312.78,Debit Card,Completed
+T347,2026-03-03,C57,William Ward,CA,P184,Electronics,3,395.75,Debit Card,Cancelled
+T348,2025-09-19,C100,Brittany Orr,FR,P68,Home,1,294.37,PayPal,Completed
+T349,2025-12-15,C116,Mark Hansen,IN,P92,Electronics,1,296.25,Credit Card,Cancelled
+T350,2026-02-19,C136,Andre Harper,AU,P114,Home,1,233.42,Debit Card,Cancelled
+T351,2026-01-24,C73,Raymond Davis,US,P133,Electronics,4,28.46,UPI,Returned
+T352,2026-07-27,C81,Jose Barnes,US,P138,Sports,5,22.04,Debit Card,Cancelled
+T353,2026-02-19,C17,Christina Smith,UK,P19,Clothing,3,78.16,UPI,Completed
+T354,2026-01-24,C181,Kevin Martin,IN,P54,Clothing,5,440.36,PayPal,Returned
+T355,2026-02-24,C114,Jake Harvey,US,P57,Books,4,251.21,PayPal,Cancelled
+T356,2026-08-08,C19,Frank Smith,CA,P75,Sports,3,299.19,PayPal,Returned
+T357,2025-08-21,C288,Amber Hill,IN,P115,Sports,1,80.36,PayPal,Cancelled
+T358,2026-06-29,C246,Anna Bridges,CA,P129,Electronics,1,242.9,PayPal,Returned
+T359,2026-07-16,C25,Alicia Banks,UK,P56,Home,3,461.63,Debit Card,Returned
+T360,2026-07-17,C7,John Harrington,DE,P115,Sports,1,193.38,Debit Card,Returned
+T361,2025-08-14,C37,Kimberly Griffith,AU,P35,Electronics,3,328.32,Debit Card,Cancelled
+T362,2026-01-22,C27,Mr. Kevin Huff DVM,AU,P183,Home,1,415.72,Debit Card,Cancelled
+T363,2026-07-08,C135,Brandy Hester,UK,P12,Sports,4,202.12,PayPal,Completed
+T364,2025-12-23,C281,Michael Rogers,AU,P175,Electronics,4,251.34,UPI,Returned
+T365,2025-10-10,C74,Emma Jackson,AU,P141,Sports,4,235.47,UPI,Completed
+T366,2026-02-06,C6,Amber Ferguson,DE,P63,Electronics,5,58.89,Credit Card,Completed
+T367,2026-07-12,C210,Michael Francis,AU,P9,Electronics,5,110.99,Credit Card,Returned
+T368,2026-02-14,C177,Brian Ramirez,CA,P102,Books,1,452.63,Credit Card,Completed
+T369,2026-06-04,C227,Kristin George,DE,P184,Sports,1,482.07,Debit Card,Returned
+T370,2026-03-31,C235,Jason Hall,US,P169,Sports,2,493.93,UPI,Returned
+T371,2025-10-01,C137,Benjamin Bray,CA,P41,Electronics,2,140.08,Debit Card,Completed
+T372,2026-04-04,C1,Judith Rodgers,CA,P7,Home,2,255.17,UPI,Completed
+T373,2025-09-05,C45,Jonathan Smith,UK,P41,Books,3,30.13,UPI,Cancelled
+T374,2026-03-11,C23,Richard Johnson,IN,P99,Home,5,472.41,PayPal,Cancelled
+T375,2025-10-30,C17,Jacqueline Marquez,UK,P148,Clothing,4,214.54,PayPal,Completed
+T376,2026-08-01,C257,Jim Diaz,UK,P141,Sports,3,422.71,Debit Card,Returned
+T377,2026-09-13 13:55:40.225395,C75,Charles Montgomery,UK,P162,Books,2,362.52,PayPal,Returned
+T1,2025-12-28,C99,Austin Lopez,FR,P11,Electronics,3,296.89,UPI,Completed
+T379,2026-09-13 13:55:40.227503,C89,Eric Robinson,US,P87,Books,2,389.2,PayPal,Cancelled
+T380,2026-02-26,C119,Courtney Jones,IN,P55,Books,5,367.87,Debit Card,Completed
+T381,2025-11-13,C211,Stephen Oconnell,CA,P152,Books,3,128.29,UPI,Returned
+T382,2026-01-01,C79,James Williams,UK,P170,Books,3,369.1,Credit Card,Returned
+T383,2026-03-08,C21,Daniel Suarez,DE,P96,Home,3,375.17,UPI,Completed
+T1,2025-09-01,C133,Logan Wilson,DE,P185,Sports,5,242.09,Debit Card,Returned
+T385,2025-11-27,C222,Holly Hayes,AU,P75,Sports,4,398.75,Credit Card,Cancelled
+T386,2025-11-14,C29,Katrina Edwards,XYZ,P64,Books,2,189.15,UPI,Completed
+T387,2026-09-13 13:55:40.225271,C205,John Moore,DE,P141,Books,2,187.57,UPI,Cancelled
+T388,2026-05-05,C297,Jamie Walters,IN,P126,Clothing,1,228.25,UPI,Completed
+T389,2026-06-23,C190,Edward Martin,CA,P28,Home,1,141.58,Debit Card,Completed
+T390,2025-11-19,C289,Robert Meyer,IN,P172,Clothing,3,120.2,UPI,Cancelled
+T391,2026-09-13 13:55:40.227694,C243,Dominic Harvey,CA,P126,Electronics,3,274.32,UPI,Returned
+T392,2026-05-21,C272,William Rogers,IN,P163,Clothing,5,380.96,UPI,Completed
+T393,2026-02-11,C288,Christine Koch,US,P122,Books,4,273.22,Debit Card,Returned
+T394,2025-08-18,C184,Francisco Thomas,DE,P110,Clothing,2,432.69,UPI,Returned
+T395,2025-09-30,C246,Larry Larson,IN,P36,Clothing,4,300.59,PayPal,Cancelled
+T396,2026-04-17,C130,Kevin Lee,CA,P12,Electronics,4,236.78,Credit Card,Returned
+T397,2026-02-23,C166,David Brady,IN,P144,Electronics,5,151.9,Debit Card,Cancelled
+T398,2026-06-22,C112,Molly Higgins,US,P113,Books,3,371.75,UPI,Cancelled
+T399,2026-01-04,C225,Jessica Foster,AU,P58,Home,2,348.8,Credit Card,Cancelled
+T400,2025-09-15,C15,Nicole Lozano,CA,P188,Home,1,331.31,UPI,Completed
+T401,2025-11-10,C108,Emily Patton,DE,P82,Home,4,258.4,Credit Card,Completed
+T402,2026-07-09,C121,Abigail Powell,IN,P129,Sports,4,378.12,Credit Card,Completed
+T403,2026-02-18,C214,Mr. John Sanders,UK,P25,Books,4,388.37,Credit Card,Completed
+T404,2026-04-19,C265,Larry Palmer,UK,P124,Sports,4,357.12,PayPal,Cancelled
+T405,2025-10-17,C234,Rebecca Watson,AU,P48,Sports,4,55.73,Debit Card,Cancelled
+T406,2025-12-01,C205,Jason Keller,AU,P101,Clothing,-3,156.53,PayPal,Cancelled
+T407,2026-08-03,C251,Stephanie Chapman,IN,P6,Electronics,5,425.74,Debit Card,Returned
+T408,2026-07-24,C147,Jennifer Fernandez,AU,P112,Sports,2,457.0,UPI,Completed
+T409,2025-09-09,C283,Brent Johnson,IN,P177,Home,5,252.35,Credit Card,Completed
+T410,2025-11-06,C167,William Stevenson,DE,P195,Clothing,2,110.94,Debit Card,Completed
+T411,2025-09-01,C295,Stephanie Davis,CA,P60,Sports,2,42.25,Debit Card,Cancelled
+T412,2026-07-22,C39,Lisa Morgan,IN,P140,Sports,2,468.05,UPI,Completed
+T413,2026-07-28,C209,Michael Hale,US,P62,Clothing,3,403.73,PayPal,Cancelled
+T414,2026-09-13 13:55:40.226708,,Vickie Moore,CA,P142,Home,5,160.69,PayPal,Returned
+T415,2026-07-17,C123,Matthew Morgan,US,P6,Sports,3,380.28,Credit Card,Cancelled
+T416,2025-08-31,C16,Robert Stanley PhD,XYZ,P79,Home,5,396.37,Debit Card,Cancelled
+T417,2026-07-03,C153,Alejandro Leonard,US,P98,Home,4,44.57,Debit Card,Cancelled
+T418,2026-06-22,C130,Jennifer Williams,US,P8,Sports,4,37.43,UPI,Completed
+T419,2025-08-16,C102,Samantha Delgado,IN,P174,Home,5,59.32,UPI,Returned
+T420,2026-05-23,C214,Sara Miller,UK,P163,Clothing,4,322.21,PayPal,Completed
+T421,2025-10-24,C196,Dr. Julian Dillon,UK,P109,Home,3,35.96,Debit Card,Returned
+T422,2026-06-09,C16,Audrey Palmer,DE,P149,Books,1,39.96,UPI,Completed
+T423,2026-03-06,C201,Dana Hill,UK,P116,Clothing,4,347.1,Credit Card,Returned
+T424,2026-02-10,C146,Brandy Townsend,UK,P3,Sports,5,21.34,PayPal,Completed
+T425,2025-09-08,C187,Pamela Robinson,AU,P156,Clothing,2,498.01,UPI,Returned
+T426,2026-03-16,C171,Johnny Young,AU,P109,Books,1,138.35,Debit Card,Cancelled
+T427,2025-11-09,C44,Leonard Murphy,US,P58,Clothing,3,156.84,UPI,Completed
+T428,2026-06-03,C126,Alexandra Webster,DE,P124,Home,1,419.83,Credit Card,Returned
+T429,2026-04-20,C9,Michelle Schmitt,CA,P43,Electronics,4,25.5,Credit Card,Completed
+T430,2026-06-06,C11,Christopher Hall,FR,P180,Sports,1,45.39,Credit Card,Completed
+T431,2026-06-05,C60,Diane Shaffer,XYZ,P161,Sports,2,357.29,PayPal,Cancelled
+T432,2026-06-29,C92,Rachel Shaw,IN,P79,Books,2,322.65,Credit Card,Returned
+T433,2025-10-24,C182,Joseph Cain,UK,P141,Home,1,257.03,Credit Card,Cancelled
+T434,2025-11-20,C87,Kristen Moon,DE,P97,Clothing,1,335.78,PayPal,Returned
+T435,2025-10-09,C210,Matthew Hanna DDS,FR,P81,Electronics,5,105.93,UPI,Returned
+T436,2025-10-19,C286,Kelly King,CA,P4,Books,4,183.55,PayPal,Completed
+T437,2025-12-25,C143,Laura Lara,AU,P90,Electronics,3,343.45,UPI,Completed
+T438,2026-02-01,C147,Barry Martin,CA,P140,Sports,3,329.91,UPI,Cancelled
+T439,2025-10-02,C138,Angela Davidson,US,P68,Books,3,409.64,Credit Card,Completed
+T440,2025-12-20,C154,Stephen Carter,AU,P83,Books,3,419.13,PayPal,Completed
+T441,2025-08-28,C89,Benjamin Gray,IN,P166,Books,4,332.94,Debit Card,Completed
+T442,2026-04-01,C49,Joyce Jackson,US,P150,Clothing,5,19.24,Debit Card,Cancelled
+T443,2025-12-15,C117,Amber Townsend,IN,P100,Clothing,1,464.88,Debit Card,Cancelled
+T444,2025-08-21,C144,Charles Thompson,UK,P183,Books,3,167.17,UPI,Cancelled
+T445,2026-03-25,C2,Melissa Robinson,CA,P73,Sports,2,390.75,PayPal,Completed
+T446,2026-06-02,C272,Jared Price,US,P88,Clothing,3,172.98,UPI,Cancelled
+T447,2025-09-23,C46,Mr. Kevin French,US,P87,Clothing,5,310.35,PayPal,Cancelled
+T448,2026-05-07,C134,Melissa Valdez,AU,P148,Home,4,213.56,Credit Card,Cancelled
+T449,2025-11-29,C146,Mary Miller,CA,P76,Electronics,5,110.65,Credit Card,Cancelled
+T450,2026-01-02,C20,Thomas Willis,AU,P61,Electronics,4,169.85,UPI,Returned
+T451,2026-04-14,C101,Timothy Summers,AU,P143,Sports,2,428.26,Credit Card,Cancelled
+T452,2026-06-06,C288,Paul Henderson,IN,P85,Books,4,208.42,PayPal,Completed
+T453,2026-04-10,C8,April Gallagher,IN,P116,Clothing,5,37.76,UPI,Cancelled
+T454,2026-02-28,C141,Joseph Gilbert,US,P10,Sports,5,377.3,Credit Card,Completed
+T455,2026-06-26,C133,Dr. Jennifer Washington,FR,P160,Home,5,-26.519392840887537,UPI,Cancelled
+T456,2026-06-21,C217,Leah Lynch,FR,P31,Sports,4,327.83,Credit Card,Completed
+T457,2026-01-17,C206,Jessica Osborne,AU,P84,Electronics,3,330.36,Credit Card,Returned
+T458,2025-09-29,C41,Christopher Solis,AU,P193,Home,5,156.44,Debit Card,Cancelled
+T459,2025-10-26,C158,Alexander Taylor,FR,P127,Electronics,4,242.39,UPI,Returned
+T460,2025-12-24,C150,Jonathan Silva,AU,P176,Home,-1,443.47,UPI,Cancelled
+T461,2025-11-25,C51,Kathleen Doyle,US,P82,Electronics,5,464.43,Credit Card,Returned
+T462,2026-03-20,C114,Kevin Oconnor,US,P8,Home,1,399.85,Debit Card,Completed
+T463,2025-10-19,C188,Sarah Rhodes,AU,P136,Electronics,5,116.09,Credit Card,Cancelled
+T464,2026-01-24,C116,Chelsea Anderson,AU,P90,Books,3,196.47,Debit Card,Returned
+T465,2025-09-06,C257,Mia Murray,UK,P70,Sports,1,299.02,PayPal,Cancelled
+T466,2025-08-31,C189,Rebekah Hill,US,P35,Electronics,5,83.64,UPI,Cancelled
+T467,2026-03-28,C197,Pamela Duncan,CA,P92,Home,5,45.44,PayPal,Completed
+T468,2026-04-17,C233,Meagan Paul,UK,P45,Books,1,287.02,Debit Card,Cancelled
+T469,2026-06-01,C247,Jonathan James,CA,P181,Home,5,283.84,Debit Card,Cancelled
+T470,2025-10-13,C14,Erin Brown,US,P194,Sports,1,334.18,Credit Card,Cancelled
+T471,2025-11-23,C288,Elizabeth Norris,AU,P189,Electronics,5,174.53,UPI,Returned
+T472,2026-04-25,C22,Michael Simmons,AU,P24,Electronics,5,373.07,Debit Card,Returned
+T473,2026-08-12,C156,Joseph Davis DVM,CA,P51,Clothing,4,369.08,Debit Card,Completed
+T474,2025-08-25,C263,Rhonda Henry,US,P81,Clothing,4,374.77,PayPal,Completed
+T475,2025-10-22,C42,Nina Johnson,FR,P58,Electronics,4,340.11,Credit Card,Cancelled
+T476,2026-04-03,C253,Daniel Martin,DE,P18,Books,4,314.38,UPI,Returned
+T477,2025-10-18,C24,Spencer Campbell,AU,P130,Home,3,314.75,Debit Card,Completed
+T478,2026-01-04,C238,Savannah Mccoy,IN,P112,Home,4,347.18,Debit Card,Completed
+T479,2025-10-13,C20,Debra Johnson,IN,P11,Books,3,11.74,Credit Card,Returned
+T480,2025-10-22,C218,Clayton Smith,IN,P153,Sports,1,131.69,PayPal,Returned
+T481,2026-01-24,C208,Dennis Combs,DE,P156,Electronics,3,142.79,PayPal,Cancelled
+T482,2025-12-04,C293,Lisa Knox,AU,P103,Electronics,4,435.97,UPI,Completed
+T483,2026-01-22,C232,Guy Smith,CA,P112,Books,5,55.22,Credit Card,Returned
+T484,2025-11-29,C15,Miss Alyssa Myers,FR,P37,Clothing,1,477.48,UPI,Completed
+T485,2025-11-25,C264,Victor Wilson,US,P105,Electronics,1,297.97,UPI,Completed
+T486,2026-04-21,C173,Kim Pope,AU,P61,Electronics,2,472.05,UPI,Completed
+T487,2026-07-09,C49,Michael Castillo,FR,P180,Home,3,307.65,Debit Card,Cancelled
+T488,2026-06-08,C67,John Johnson,DE,P83,Sports,2,77.05,Credit Card,Cancelled
+T489,2026-06-16,C219,David Powell,US,P151,Sports,5,205.77,Credit Card,Cancelled
+T490,2025-10-07,C175,Robert Chan,CA,P163,Clothing,4,449.8,Credit Card,Completed
+T491,2025-10-30,C101,Courtney Rodriguez,DE,P108,Sports,1,241.34,Debit Card,Returned
+T492,2026-05-03,C233,Nicole Williams,IN,P111,Clothing,4,465.04,PayPal,Cancelled
+T493,2026-01-29,C103,Cynthia Berry,UK,P94,Home,4,416.49,PayPal,Cancelled
+T494,2025-11-21,C115,Christine Calhoun,AU,P194,Books,3,486.18,Credit Card,Completed
+T495,2025-12-01,C284,Rebecca Lynch,CA,P116,Clothing,5,224.79,Debit Card,Returned
+T496,2026-02-17,C43,Malik Martin,FR,P80,Sports,3,271.9,Debit Card,Cancelled
+T497,2026-02-08,C243,Jennifer Garcia,US,P130,Sports,3,422.64,Debit Card,Returned
+T498,2026-06-21,C173,James Rodriguez,FR,P62,Sports,5,243.85,Credit Card,Completed
+T1,2025-09-24,C20,Katherine Campbell MD,DE,P21,Sports,1,279.33,UPI,Returned
+T500,2026-06-10,C57,Denise Taylor,US,P192,Home,2,64.48,UPI,Returned
+T501,2025-10-12,C212,Kristen Miller,DE,P178,Clothing,5,130.66,Debit Card,Returned
+T502,2025-12-13,C245,Tracy Hodge,IN,P131,Clothing,5,299.05,UPI,Completed
+T503,2026-05-24,C47,Kristin Krause,FR,P35,Electronics,2,473.7,PayPal,Returned
+T504,2025-08-21,C162,Ronald Dodson,DE,P11,Electronics,4,492.83,UPI,Cancelled
+T505,2026-06-18,C284,Mark Salazar,DE,P13,Books,5,292.48,Credit Card,Completed
+T506,2025-10-27,C200,Tricia Stewart,US,P80,Books,5,100.22,UPI,Completed
+T507,2025-10-16,C156,Jacqueline Harvey,AU,P20,Books,4,100.04,Debit Card,Returned
+T508,2026-07-16,C240,David Smith,CA,P80,Books,4,153.25,Credit Card,Completed
+T509,2026-02-25,C187,Audrey Watkins,DE,P184,Clothing,3,490.68,Credit Card,Completed
+T510,2025-11-30,C110,Brett Adams,CA,P81,Electronics,2,334.72,Debit Card,Cancelled
+T511,2026-07-23,C20,Kristen Johnson,CA,P150,Clothing,4,85.49,Debit Card,Returned
+T512,2025-12-19,C226,Danielle Owens,AU,P145,Clothing,2,312.24,Credit Card,Completed
+T513,2026-06-15,,Olivia Miller,UK,P5,Home,1,460.37,Credit Card,Returned
+T514,2026-05-01,C221,Melissa Mitchell,UK,P196,Home,5,480.74,Debit Card,Completed
+T515,2026-06-10,C37,Nicholas Petersen,US,P149,Home,2,468.11,UPI,Cancelled
+T516,2026-04-23,C166,Melissa Ford,UK,P122,Electronics,2,270.01,Credit Card,Returned
+T517,2026-07-06,C3,Nicole Hansen,AU,P49,Home,2,65.7,Credit Card,Completed
+T518,2025-11-30,C254,Scott Morales,US,P177,Books,3,313.64,Debit Card,Returned
+T519,2025-12-19,,Robert Cameron,IN,P77,Clothing,5,145.59,Debit Card,Cancelled
+T520,2026-04-23,C135,Hayley Miller,DE,P48,Sports,4,131.07,PayPal,Cancelled
+T521,2025-12-15,C235,Sarah Guerrero,AU,P189,Electronics,2,399.86,Debit Card,Cancelled
+T522,2026-04-04,C178,Heather Villanueva,UK,P154,Home,2,440.62,UPI,Cancelled
+T523,2026-01-22,C7,Kurt James,UK,P68,Sports,4,19.25,Debit Card,Completed
+T524,2026-05-08,C8,Jennifer Mejia,DE,P142,Clothing,1,95.61,UPI,Completed
+T525,2026-05-27,C24,Laurie Bailey,UK,P78,Electronics,1,253.07,PayPal,Completed
+T526,2026-05-09,,Derek Mcbride,DE,P152,Home,3,146.76,Credit Card,Cancelled
+T527,2026-03-16,C223,Alan Oconnor,IN,P14,Sports,1,497.02,Debit Card,Returned
+T528,2025-12-22,C223,Michael Barker,FR,P90,Electronics,4,41.15,UPI,Returned
+T529,2025-09-21,C290,Julia Reeves,FR,P54,Clothing,1,76.11,Credit Card,Completed
+T530,2025-08-23,C235,Brian Williams,FR,P46,Electronics,1,241.89,Debit Card,Completed
+T531,2026-05-10,C59,John Peterson,FR,P195,Clothing,5,329.8,Debit Card,Returned
+T532,2025-12-18,C123,Brenda Baker,DE,P179,Sports,1,266.13,Debit Card,Returned
+T533,2025-11-21,C104,Kevin Li,FR,P146,Books,2,302.19,PayPal,Completed
+T534,2026-07-09,C167,Emma Sanchez,FR,P138,Electronics,1,23.63,UPI,Cancelled
+T535,2026-04-18,C183,Leslie Brown,XYZ,P51,Home,4,111.03,Debit Card,Returned
+T536,2025-09-26,C61,Earl Barton,DE,P80,Electronics,5,401.87,UPI,Completed
+T537,2026-04-07,C186,Barbara Garrett,IN,P131,Sports,2,398.99,Debit Card,Returned
+T538,2026-05-21,C78,David Rodriguez,US,P159,Home,1,398.11,Debit Card,Returned
+T539,2026-06-26,C52,Melissa White,AU,P134,Sports,5,98.59,Debit Card,Completed
+T540,2026-05-27,C85,Allison Thomas,UK,P123,Clothing,5,229.92,Credit Card,Cancelled
+T541,2026-08-02,C213,Anthony Wilson,IN,P14,Books,2,436.23,Debit Card,Cancelled
+T542,2026-01-08,C93,Carlos Perry,FR,P186,Clothing,1,317.75,Credit Card,Returned
+T543,2026-05-31,C178,Cindy Bowman,IN,P162,Clothing,2,265.06,UPI,Returned
+T544,2025-11-30,C51,Brad Berg,UK,P4,Books,2,105.85,Debit Card,Returned
+T545,2026-03-20,C247,Bryan Ramirez,AU,P200,Books,4,297.0,UPI,Cancelled
+T546,2026-07-30,C217,Mikayla Richardson,UK,P80,Sports,1,396.75,Credit Card,Completed
+T547,2025-12-13,C193,April Herman,CA,P137,Home,3,490.44,UPI,Completed
+T548,2026-06-04,C105,Adrian Graves,FR,P167,Clothing,2,451.42,UPI,Completed
+T549,2025-10-20,C93,Lori Hebert,XYZ,P193,Clothing,5,471.84,PayPal,Completed
+T550,2026-05-03,C208,Shawn Martinez,IN,P56,Books,2,210.35,PayPal,Completed
+T551,2026-08-10,C132,Andrew Cook,IN,P101,Books,3,346.1,UPI,Completed
+T552,2025-12-04,C125,Suzanne Henderson,AU,P192,Clothing,5,29.27,PayPal,Returned
+T553,2025-10-30,C20,Michael Scott,CA,P176,Electronics,3,364.17,Debit Card,Completed
+T554,2025-09-27,C91,Michael Smith,UK,P29,Sports,3,329.71,Debit Card,Completed
+T555,2025-09-30,C33,Charles Davis,AU,P58,Home,1,111.33,Credit Card,Cancelled
+T556,2026-01-08,C151,Mr. John Stuart,DE,P142,Clothing,5,29.39,Credit Card,Returned
+T557,2025-12-20,C251,Christy Cruz,AU,P45,Sports,-2,413.79,PayPal,Returned
+T558,2026-03-03,C249,Ms. Debra Gonzales,UK,P22,Electronics,4,198.95,PayPal,Cancelled
+T559,2026-07-10,C226,Linda Crawford,AU,P166,Home,1,344.35,UPI,Completed
+T560,2025-10-15,C293,Ashley Wallace,IN,P179,Electronics,2,73.7,UPI,Completed
+T561,2026-02-11,C297,Cheyenne Young,AU,P81,Electronics,4,319.13,Credit Card,Completed
+T562,2025-08-31,C208,Jay Smith,UK,P90,Clothing,3,350.42,Debit Card,Cancelled
+T563,2026-04-08,C84,Sherri Gonzales,IN,P76,Sports,1,132.6,Debit Card,Returned
+T564,2025-11-06,C46,Jennifer Gray,UK,P127,Electronics,4,323.69,Debit Card,Completed
+T565,2026-06-06,C19,Jeffrey Lambert,IN,P53,Books,5,470.91,PayPal,Returned
+T566,2025-12-04,C173,Donald Wright,CA,P135,Books,1,414.44,Debit Card,Cancelled
+T567,2026-07-05,C258,Holly Stewart,US,P153,Home,1,464.46,Debit Card,Returned
+T568,2026-04-26,C37,Kimberly Patel,AU,P194,Books,5,130.86,Credit Card,Returned
+T569,2026-05-04,C83,Lisa Stephens,FR,P65,Electronics,4,198.86,UPI,Completed
+T570,2025-11-13,C300,Shelby Sanchez,UK,P190,Sports,4,360.7,Credit Card,Completed
+T571,2026-04-29,C90,Timothy Strickland,US,P157,Clothing,1,140.96,UPI,Returned
+T572,2026-06-24,C241,Joseph Anderson,UK,P183,Sports,4,392.15,Debit Card,Completed
+T573,2026-07-02,C229,Dawn Austin,FR,P95,Electronics,4,395.41,Credit Card,Returned
+T574,2026-06-21,C75,Amy Garcia,UK,P171,Clothing,3,156.7,UPI,Completed
+T575,2026-01-18,C222,Keith Powell,DE,P197,Home,4,404.78,Credit Card,Completed
+T576,2026-07-01,C130,Maria Fuller,AU,P154,Sports,1,32.73,UPI,Cancelled
+T577,2026-02-05,C126,Christopher Stark,AU,P111,Electronics,1,438.41,UPI,Cancelled
+T578,2025-10-23,C172,Kevin Webster,FR,P36,Sports,3,284.33,Debit Card,Completed
+T579,2026-04-11,C283,Monique Robinson,CA,P63,Sports,5,68.1,PayPal,Returned
+T580,2026-03-15,C207,Stephanie Brown,CA,P19,Books,5,160.87,Debit Card,Cancelled
+T581,2026-03-12,C191,Stephen Miller,IN,P5,Books,-2,63.74,PayPal,Cancelled
+T582,2026-01-21,C14,Brooke Jennings MD,CA,P166,Books,2,205.74,PayPal,Returned
+T583,2025-09-11,C155,John Harris,US,P13,Clothing,1,18.6,Credit Card,Cancelled
+T584,2026-07-21,C121,Michael Schroeder,UK,P35,Electronics,5,112.22,UPI,Completed
+T585,2026-04-14,C65,Christopher Ryan,US,P76,Electronics,5,290.2,Debit Card,Cancelled
+T586,2025-11-16,C35,Brandy Hoover,XYZ,P197,Home,4,362.87,UPI,Cancelled
+T587,2025-08-29,C287,Alan Baker,US,P12,Home,3,17.52,Debit Card,Completed
+T588,2026-03-17,C44,Doris Clark,DE,P115,Books,4,476.34,PayPal,Completed
+T589,2026-07-19,C61,Rachael Davis,AU,P120,Home,2,367.41,UPI,Completed
+T590,2026-06-23,C287,Richard Thompson,IN,P91,Clothing,1,-94.21798132849865,Debit Card,Cancelled
+T591,2025-08-17,C116,Lori Combs,FR,P36,Books,1,353.05,PayPal,Cancelled
+T592,2026-09-13 13:55:40.225729,C141,Angela Johnston,US,P60,Sports,2,23.39,UPI,Completed
+T593,2026-03-09,C151,Kimberly Butler,IN,P78,Books,5,279.27,Debit Card,Completed
+T594,2026-01-22,C18,Shane Roy,AU,P26,Clothing,3,355.61,UPI,Completed
+T595,2026-07-05,C263,John Turner,UK,P25,Home,5,148.45,UPI,Returned
+T596,2026-06-19,C260,Travis Phelps,IN,P69,Clothing,4,399.21,UPI,Completed
+T597,2025-11-10,C46,Joseph Jones,AU,P56,Sports,3,369.15,PayPal,Returned
+T598,2026-07-20,C140,Jacqueline Hamilton,UK,P65,Sports,1,369.06,PayPal,Returned
+T599,2026-06-21,C256,Adam Schultz,CA,P134,Books,1,69.06,Debit Card,Returned
+T600,2026-06-28,C297,Melody Li,CA,P101,Sports,5,161.37,Credit Card,Completed
+T601,2026-06-19,C39,Kelly Phillips,CA,P35,Books,3,475.27,Debit Card,Completed
+T602,2026-05-12,C266,Bruce Powell,UK,P113,Clothing,1,273.2,Debit Card,Returned
+T603,2025-09-11,C161,Jennifer Sullivan,AU,P37,Sports,2,150.92,PayPal,Completed
+T604,2025-10-16,C173,Pamela Phelps,IN,P78,Books,2,229.16,UPI,Returned
+T605,2026-04-12,C209,John Raymond,CA,P15,Books,2,114.69,UPI,Cancelled
+T606,2025-12-29,C75,Kevin Williams,FR,P200,Home,2,437.02,Debit Card,Returned
+T607,2026-01-30,C19,Alisha Ramirez,FR,P98,Home,2,191.15,PayPal,Completed
+T608,2026-04-07,C213,Terry Stevenson,FR,P150,Home,1,186.45,UPI,Completed
+T609,2025-09-02,C34,Jeffrey Brown,AU,P115,Home,5,369.37,PayPal,Completed
+T610,2025-10-24,C98,Marilyn Burke,AU,P184,Home,1,228.03,UPI,Returned
+T611,2026-02-27,C94,Jose Rodriguez,DE,P45,Home,2,386.97,UPI,Cancelled
+T612,2026-02-07,C225,Keith Franklin,CA,P141,Books,5,48.36,Debit Card,Completed
+T613,2026-08-11,C102,Diamond Ball,UK,P122,Books,3,361.59,UPI,Completed
+T614,2026-04-08,C103,Anna Barnett,CA,P168,Clothing,5,250.19,Debit Card,Cancelled
+T615,2026-07-28,C84,Denise Price,CA,P68,Clothing,5,107.89,UPI,Cancelled
+T616,2026-04-28,C236,Gordon Goodwin,FR,P200,Clothing,1,193.61,PayPal,Cancelled
+T617,2026-01-18,C54,Julie Jones,UK,P133,Books,1,390.49,PayPal,Cancelled
+T618,2026-01-24,C240,Zachary Baxter,IN,P6,Electronics,4,448.64,Debit Card,Cancelled
+T619,2026-04-09,C3,Jeffrey Rodriguez,DE,P122,Home,1,78.8,Credit Card,Returned
+T620,2025-08-30,C79,Denise Gomez,DE,P11,Electronics,1,324.89,UPI,Completed
+T621,2026-02-26,C84,Charles Johnson,IN,P17,Sports,1,94.59,Debit Card,Completed
+T622,2026-09-13 13:55:40.227858,C50,Jessica Snow,FR,P36,Books,4,105.37,PayPal,Returned
+T623,2026-05-17,C70,Maria Garcia,US,P39,Sports,2,204.97,Debit Card,Returned
+T624,2026-02-14,C46,Alison English,IN,P161,Electronics,5,212.7,Debit Card,Cancelled
+T625,2026-07-10,C253,Maureen Cruz,UK,P143,Electronics,1,56.71,PayPal,Cancelled
+T626,2026-04-10,C32,Anne Sanchez,FR,P196,Sports,2,473.19,PayPal,Completed
+T627,2026-04-29,C10,Michael David,AU,P78,Sports,3,435.46,PayPal,Returned
+T628,2025-12-28,C246,John Rivera,UK,P47,Electronics,3,184.02,PayPal,Returned
+T629,2025-12-05,C107,Amanda Mahoney,FR,P103,Home,5,79.03,Credit Card,Completed
+T630,2026-07-10,C164,Kerry Rodriguez,UK,P24,Home,1,403.6,UPI,Returned
+T631,2026-06-15,C185,Bryan Schroeder,US,P169,Books,4,285.51,Credit Card,Cancelled
+T632,2026-05-11,C198,Mark Schmidt,DE,P145,Books,3,20.44,Credit Card,Completed
+T633,2026-01-29,C72,Candace Wallace,DE,P57,Clothing,5,400.54,UPI,Completed
+T634,2025-09-26,C284,Erin Zamora,UK,P105,Sports,5,265.58,UPI,Completed
+T635,2025-09-20,C259,David Buchanan,IN,P22,Home,4,466.75,Debit Card,Completed
+T636,2026-01-04,C216,Nicholas Richardson,FR,P102,Books,4,418.55,PayPal,Cancelled
+T637,2026-01-31,C283,Deborah Barnes,US,P153,Sports,2,363.72,Debit Card,Returned
+T638,2025-11-22,C59,Phyllis Jones,CA,P75,Electronics,2,168.01,UPI,Completed
+T639,2026-01-03,C49,Holly Adams,CA,P169,Electronics,2,209.8,PayPal,Cancelled
+T640,2026-04-21,C157,John Thompson,AU,P78,Electronics,3,403.74,Credit Card,Cancelled
+T641,2026-01-26,C170,Jason Brown,CA,P192,Home,5,264.31,Debit Card,Completed
+T642,2026-06-24,C2,Beth Leonard,UK,P199,Books,4,374.22,PayPal,Returned
+T643,2026-03-27,C208,Ashley Gates,CA,P121,Books,3,24.64,UPI,Cancelled
+T644,2026-07-30,C208,Katrina Zhang,IN,P116,Clothing,5,218.1,Credit Card,Cancelled
+T645,2025-11-06,C259,Brittany Martinez,UK,P17,Clothing,5,453.62,PayPal,Returned
+T646,2025-12-23,C80,Stephen Dixon,UK,P135,Books,1,442.45,UPI,Completed
+T647,2025-11-20,C199,Donna Sanders,CA,P99,Clothing,2,445.37,Credit Card,Returned
+T648,2026-07-18,C297,Erin Mason,AU,P51,Books,5,61.98,Credit Card,Cancelled
+T649,2025-10-11,C269,Christopher Thomas III,UK,P48,Electronics,1,363.0,Debit Card,Completed
+T650,2026-04-06,C272,Daniel Ingram,CA,P98,Home,3,273.79,PayPal,Returned
+T651,2026-03-09,C156,Alisha Smith,UK,P130,Home,5,79.28,PayPal,Returned
+T652,2025-12-22,C71,Katie Nelson,UK,P7,Clothing,3,164.27,Credit Card,Completed
+T653,2025-10-25,C198,Kathleen Johnson,CA,P27,Electronics,5,127.92,PayPal,Cancelled
+T654,2026-07-22,C74,Thomas Ross,DE,P128,Books,5,210.42,UPI,Completed
+T655,2025-11-19,C170,Stephanie Neal,US,P4,Books,2,440.65,Credit Card,Cancelled
+T656,2026-07-23,C143,Nicole Kennedy,DE,P26,Clothing,3,73.19,Debit Card,Completed
+T657,2026-02-02,C281,Jennifer Bennett,FR,P76,Books,2,469.0,PayPal,Completed
+T658,2025-10-31,C59,Marie Jones,CA,P143,Sports,2,226.0,PayPal,Returned
+T659,2026-07-05,C286,Gavin Floyd,US,P179,Sports,2,323.36,Debit Card,Completed
+T660,2025-08-17,C66,Elizabeth Lopez,IN,P42,Electronics,1,69.14,Credit Card,Returned
+T661,2026-03-27,C205,Sarah Miller,UK,P15,Electronics,1,499.04,Credit Card,Cancelled
+T662,2025-11-13,C293,Deborah Leblanc,FR,P178,Clothing,2,408.93,UPI,Returned
+T663,2025-12-01,C80,Grant Meyers,IN,P41,Clothing,5,133.08,UPI,Completed
+T664,2026-07-01,C173,Jamie Winters,UK,P54,Clothing,4,81.43,Credit Card,Cancelled
+T665,2026-04-27,C116,Jason Gomez,CA,P66,Home,5,188.42,UPI,Completed
+T666,2025-10-12,C36,Anita Chavez,DE,P102,Home,5,160.73,PayPal,Completed
+T667,2025-11-19,C151,William Sandoval,CA,P59,Sports,3,442.48,Credit Card,Returned
+T668,2025-11-14,C203,Frances Chaney,FR,P130,Home,4,18.75,PayPal,Returned
+T669,2025-08-21,C252,Kristine Armstrong,IN,P50,Clothing,5,337.49,UPI,Cancelled
+T670,2026-06-17,C135,Alicia Kim,CA,P6,Clothing,3,474.44,UPI,Cancelled
+T671,2026-07-05,C300,Kyle Santana,CA,P25,Sports,3,45.91,Credit Card,Completed
+T672,2026-03-02,C197,Jeffrey Turner,IN,P125,Sports,3,222.76,Debit Card,Completed
+T673,2026-02-13,C171,Michelle Young,AU,P71,Electronics,4,230.47,UPI,Cancelled
+T674,2025-09-09,C106,Eric Walker,AU,P89,Electronics,1,446.64,PayPal,Returned
+T675,2025-10-30,C279,Linda Martinez,FR,P64,Sports,2,148.22,UPI,Completed
+T676,2026-05-12,C226,Keith Steele,FR,P143,Home,1,269.13,Debit Card,Cancelled
+T677,2026-03-18,C65,Sara Taylor,US,P187,Home,3,332.09,UPI,Completed
+T678,2026-03-27,C151,Cole Ellis,IN,P149,Books,4,287.63,Debit Card,Completed
+T679,2026-05-08,C163,Hannah Hernandez,CA,P159,Clothing,3,71.48,PayPal,Cancelled
+T680,2026-03-29,C250,Zachary Mcdonald,UK,P70,Sports,3,460.62,Debit Card,Cancelled
+T681,2026-01-04,C289,Joseph Bell,AU,P50,Books,2,77.39,Debit Card,Returned
+T682,2025-08-13,,Leah Marks,AU,P161,Sports,3,321.29,Debit Card,Cancelled
+T683,2026-03-12,C36,Cameron Cobb,DE,P83,Electronics,4,111.51,UPI,Returned
+T684,2026-04-28,C55,Ashley Lee,AU,P195,Clothing,2,497.7,Debit Card,Returned
+T685,2025-09-14,C26,Beth Hopkins,CA,P54,Books,5,220.93,UPI,Completed
+T686,2026-03-26,C260,Justin Parks,UK,P105,Sports,1,364.03,Debit Card,Completed
+T687,2026-04-29,C226,Pamela Bentley,US,P71,Sports,5,261.18,PayPal,Completed
+T688,2026-01-08,C36,Bradley Walsh,CA,P39,Sports,2,404.84,PayPal,Returned
+T689,2025-11-10,C177,Joshua Page,FR,P191,Electronics,4,471.3,Debit Card,Cancelled
+T690,2026-08-01,C181,Paula Collier,US,P164,Electronics,2,17.2,UPI,Returned
+T691,2026-02-11,C57,Derrick Richardson,AU,P73,Books,3,417.02,Debit Card,Cancelled
+T692,2025-11-21,C165,Justin Trujillo,IN,P39,Sports,3,113.13,Credit Card,Cancelled
+T693,2025-11-19,C75,Brittney Taylor,UK,P180,Sports,4,452.88,Credit Card,Completed
+T694,2026-04-06,C98,Michael Valdez,XYZ,P151,Home,5,495.76,Debit Card,Cancelled
+T695,2026-03-15,C90,Chad French,CA,P48,Clothing,4,225.37,UPI,Cancelled
+T696,2025-11-28,C15,Michael Herrera,AU,P192,Electronics,5,426.41,Credit Card,Cancelled
+T697,2025-10-28,C191,Jean Welch,US,P96,Sports,5,253.28,Debit Card,Completed
+T698,2026-08-08,C21,Alejandra Jones,DE,P91,Sports,2,241.91,Debit Card,Cancelled
+T699,2025-08-30,C199,Lisa Riley,IN,P137,Clothing,5,299.94,Debit Card,Completed
+T700,2026-04-04,C212,Leslie Santos,UK,P72,Books,5,118.32,PayPal,Cancelled
+T701,2026-04-28,C152,Katherine Rice,AU,P77,Clothing,3,390.49,Debit Card,Returned
+T702,2025-11-01,C128,Zachary Mcdaniel,FR,P36,Books,1,179.15,Debit Card,Completed
+T703,2026-05-04,C213,Matthew Holmes,DE,P34,Home,4,263.09,UPI,Completed
+T704,2026-03-03,C271,Erin Diaz,CA,P153,Books,4,55.22,Credit Card,Returned
+T705,2026-05-02,C6,Anthony Gonzalez,US,P27,Books,3,291.37,Credit Card,Returned
+T706,2026-08-02,C199,Dawn Jones,FR,P166,Home,1,304.34,UPI,Completed
+T707,2026-03-23,C209,Alejandro Hampton,CA,P80,Books,2,469.07,Credit Card,Completed
+T1,2025-11-03,C88,Mary Martinez,US,P96,Home,2,150.36,Credit Card,Cancelled
+T709,2026-07-15,C37,Abigail Todd,AU,P26,Sports,2,67.63,Debit Card,Completed
+T710,2025-12-07,C292,Jacqueline Hendricks,DE,P184,Home,4,313.54,Credit Card,Completed
+T1,2025-11-21,C15,Lindsey Ross,FR,P140,Electronics,4,265.14,PayPal,Cancelled
+T712,2026-08-07,C182,Barbara Mckenzie,XYZ,P26,Clothing,3,113.04,Credit Card,Returned
+T713,2025-12-17,C38,John Clark,AU,P17,Sports,3,54.11,PayPal,Cancelled
+T714,2026-02-16,,Kevin Farley,UK,P181,Home,1,91.79,UPI,Completed
+T715,2026-07-16,C165,Alex Morrow,IN,P95,Books,1,431.45,Credit Card,Completed
+T716,2025-09-09,C293,Jennifer Jones,DE,P140,Electronics,5,436.05,Debit Card,Completed
+T717,2025-08-24,C35,Beverly Pacheco,DE,P2,Home,5,133.42,UPI,Cancelled
+T718,2026-05-04,C282,Jason Schroeder,AU,P98,Clothing,1,22.7,PayPal,Returned
+T719,2026-04-20,C168,Linda Clements,AU,P70,Electronics,5,14.61,UPI,Returned
+T720,2026-05-21,C274,Don Gordon,AU,P16,Electronics,4,43.79,Credit Card,Returned
+T721,2025-11-24,C242,Fred Bell,IN,P50,Sports,3,245.1,Debit Card,Cancelled
+T722,2025-10-31,C278,Thomas Collins,UK,P189,Electronics,2,229.6,Credit Card,Cancelled
+T723,2026-08-08,C203,Courtney Garza,FR,P116,Electronics,4,411.66,Credit Card,Returned
+T724,2025-11-27,C107,Maria Patterson,UK,P70,Clothing,5,86.34,PayPal,Returned
+T725,2025-08-30,C241,Stephanie Rivers,XYZ,P156,Clothing,3,294.73,Debit Card,Returned
+T726,2026-05-28,C34,Kimberly Chavez,IN,P152,Sports,4,263.37,UPI,Returned
+T727,2026-08-12,C38,Alexandra Reyes,FR,P3,Books,1,324.21,Credit Card,Cancelled
+T728,2025-09-30,C21,Christian Carroll,CA,P22,Clothing,2,144.14,UPI,Cancelled
+T729,2026-06-20,C110,Sarah Ortega,CA,P17,Clothing,4,460.7,Debit Card,Returned
+T730,2025-11-12,C67,Brenda Stevens,AU,P45,Home,1,206.44,UPI,Returned
+T731,2025-11-11,C232,Kristen Burns,UK,P87,Home,2,325.95,PayPal,Completed
+T732,2025-10-25,C129,Julie Todd,AU,P131,Books,2,456.69,UPI,Completed
+T733,2025-10-18,C32,Emily Merritt,UK,P78,Clothing,2,-74.34558989052903,PayPal,Completed
+T1,2026-07-20,C21,Joshua House,AU,P167,Home,4,63.53,Debit Card,Cancelled
+T735,2026-05-02,C13,Gary Ward,UK,P49,Home,4,260.82,Credit Card,Returned
+T736,2025-11-18,C109,Jared Hogan,UK,P71,Home,4,211.46,Debit Card,Cancelled
+T737,2025-09-20,C99,Kevin Rose,XYZ,P82,Clothing,1,242.44,PayPal,Returned
+T738,2025-08-27,,Christine Barker,AU,P144,Electronics,2,137.92,UPI,Returned
+T739,2025-11-25,C63,April Donaldson,DE,P13,Books,5,99.2,PayPal,Completed
+T740,2025-12-11,C54,Jennifer Knight,UK,P193,Sports,2,63.16,PayPal,Returned
+T741,2026-04-19,C249,Kayla Rowe,IN,P112,Home,5,339.54,Debit Card,Cancelled
+T742,2026-06-08,C15,Gregory Kirk,US,P60,Books,5,133.56,Debit Card,Completed
+T743,2025-09-19,C30,Angelica Roberts,AU,P192,Clothing,5,15.33,UPI,Cancelled
+T744,2026-01-06,C249,Timothy Roberts,AU,P60,Home,5,116.3,Credit Card,Cancelled
+T1,2025-10-16,C274,John Myers,AU,P109,Clothing,1,286.2,Debit Card,Returned
+T746,2025-12-14,,Jennifer Parsons,IN,P181,Clothing,3,43.73,PayPal,Returned
+T747,2026-03-25,C80,Stacey Chapman,US,P162,Books,5,73.13,Debit Card,Cancelled
+T748,2025-12-13,C126,Michael Washington,UK,P71,Home,1,337.32,Debit Card,Returned
+T749,2026-06-15,C40,Kelly Ochoa,US,P182,Electronics,5,17.76,Debit Card,Cancelled
+T750,2026-07-21,C31,Angela Hunter MD,CA,P81,Clothing,2,388.87,PayPal,Returned
+T751,2025-09-04,C160,Julie Hernandez,CA,P71,Clothing,2,102.0,UPI,Completed
+T752,2025-10-12,C214,Gene Thompson,US,P182,Sports,2,79.36,Credit Card,Cancelled
+T753,2026-07-12,C195,Aaron Dixon,AU,P152,Home,1,231.84,Debit Card,Returned
+T754,2025-11-15,C243,David Ramos,US,P135,Clothing,5,12.48,UPI,Cancelled
+T755,2025-08-24,C288,Dustin Anderson,UK,P151,Sports,2,151.03,PayPal,Completed
+T756,2025-10-02,C18,Brian Hughes,AU,P61,Clothing,2,163.27,PayPal,Completed
+T757,2025-10-28,C4,Dennis Pruitt,UK,P53,Clothing,5,293.21,UPI,Returned
+T758,2026-07-02,C127,Rebecca Mitchell,FR,P147,Home,3,315.41,UPI,Cancelled
+T759,2026-04-18,C48,Donald Warren,AU,P112,Books,5,128.28,UPI,Returned
+T760,2025-08-22,C132,Laura Clark,DE,P102,Home,1,206.99,PayPal,Returned
+T761,2025-09-20,C77,Paula Strong,FR,P48,Home,2,391.17,Credit Card,Cancelled
+T762,2025-11-18,C13,Deborah Goodman,IN,P136,Sports,5,45.4,PayPal,Completed
+T763,2026-01-03,C221,Ashley Graves,AU,P124,Electronics,4,66.54,PayPal,Completed
+T764,2026-03-07,C144,Taylor Robertson,FR,P163,Books,3,303.59,Debit Card,Cancelled
+T765,2026-03-21,C204,Nicole Sanders,IN,P178,Books,4,285.5,Credit Card,Returned
+T766,2025-11-13,C67,Jesse Burke,US,P195,Electronics,1,200.7,Credit Card,Cancelled
+T767,2026-03-08,C143,Cynthia Butler,UK,P72,Electronics,5,321.36,Debit Card,Cancelled
+T768,2025-08-13,C102,Victor Espinoza,UK,P128,Clothing,5,456.7,Credit Card,Cancelled
+T769,2025-10-01,C33,Allison Weber,CA,P109,Home,2,187.83,Debit Card,Returned
+T770,2025-11-17,C39,Jennifer Calderon,US,P142,Home,1,197.25,Credit Card,Returned
+T771,2025-10-26,C168,Justin Thomas,DE,P52,Home,5,286.85,PayPal,Returned
+T772,2026-06-20,C209,Christopher House,AU,P79,Sports,3,59.86,UPI,Cancelled
+T773,2025-12-13,C195,Jack Conner,DE,P147,Sports,2,407.14,PayPal,Completed
+T774,2026-04-07,C118,Christopher Benson,IN,P89,Electronics,4,444.51,Credit Card,Completed
+T775,2025-08-21,C215,Michelle Hensley,IN,P173,Home,2,121.33,PayPal,Returned
+T776,2025-12-31,C274,William Roberson,FR,P147,Electronics,2,410.7,Debit Card,Completed
+T777,2026-07-17,C274,Andrea Novak,CA,P10,Sports,4,451.86,Debit Card,Cancelled
+T778,2026-06-24,C33,Melissa Owens,UK,P189,Home,3,342.33,UPI,Cancelled
+T779,2025-10-04,C3,Laura Watkins,DE,P75,Electronics,3,136.02,PayPal,Cancelled
+T780,2026-05-28,C275,Robin Harper,AU,P142,Clothing,5,67.73,PayPal,Completed
+T781,2026-07-26,C26,Gregory Pearson,XYZ,P137,Electronics,2,59.74,UPI,Returned
+T782,2026-02-20,C208,Kevin Smith,UK,P37,Books,1,340.42,Credit Card,Returned
+T783,2026-09-13 13:55:40.225358,C14,Marie Richardson,FR,P13,Clothing,4,285.17,Credit Card,Cancelled
+T784,2026-03-11,C81,Amber Gomez,FR,P11,Books,2,458.07,UPI,Returned
+T785,2026-05-12,C180,Carrie Clark,CA,P37,Books,5,253.58,UPI,Returned
+T786,2025-12-29,C243,Philip Mack,FR,P92,Home,4,393.19,Debit Card,Completed
+T787,2025-11-09,C133,Timothy Davidson,FR,P82,Books,2,46.47,Debit Card,Completed
+T788,2026-07-25,C138,Jessica Huber,AU,P102,Electronics,1,339.86,Credit Card,Returned
+T789,2025-10-27,C62,Ms. Jacqueline Dunn,AU,P72,Sports,4,148.89,Debit Card,Completed
+T790,2026-07-17,C86,Teresa Pacheco,AU,P195,Electronics,4,478.45,UPI,Returned
+T791,2026-08-10,C296,Martin Bell,IN,P31,Electronics,5,10.69,UPI,Cancelled
+T792,2026-02-17,C182,Sarah Parker,IN,P191,Sports,4,36.22,Debit Card,Cancelled
+T793,2026-05-05,C255,Gerald Jenkins,FR,P119,Clothing,2,495.47,PayPal,Completed
+T794,2025-12-23,C122,Scott Underwood,DE,P90,Clothing,1,-59.27301738068588,Debit Card,Completed
+T795,2026-02-14,C275,Brittney Hahn,UK,P184,Clothing,1,224.47,Debit Card,Completed
+T796,2026-08-07,C135,Teresa Kelly,FR,P134,Home,2,61.42,Debit Card,Cancelled
+T797,2026-01-17,C23,Benjamin Stewart,UK,P126,Books,5,185.38,Debit Card,Completed
+T798,2025-09-22,C217,Stephen Walker,CA,P166,Electronics,4,63.62,PayPal,Cancelled
+T799,2025-10-05,C181,David Bryant,FR,P42,Clothing,1,222.76,Credit Card,Returned
+T800,2026-07-02,C240,Hannah Henderson,DE,P102,Electronics,4,147.29,UPI,Returned
+T801,2025-12-05,C229,Adam Craig,AU,P190,Sports,1,444.57,Credit Card,Returned
+T802,2026-02-05,C176,Rebecca Ayers,IN,P49,Clothing,3,87.57,PayPal,Cancelled
+T803,2026-03-23,C200,Matthew Davies,AU,P102,Books,5,406.25,Credit Card,Returned
+T804,2026-03-13,,William Strickland,FR,P191,Sports,4,197.66,Debit Card,Returned
+T805,2025-11-02,C241,Mr. George Mcmillan Jr.,AU,P115,Sports,1,227.73,Credit Card,Completed
+T806,2025-12-02,C167,Andrew Gonzalez,CA,P97,Clothing,5,235.12,Debit Card,Cancelled
+T807,2026-08-12,C64,Victoria Adams,US,P92,Sports,5,345.3,PayPal,Cancelled
+T808,2025-11-12,C251,Zachary Freeman,US,P121,Home,1,454.49,Credit Card,Returned
+T809,2025-12-26,C125,Travis Lloyd,DE,P124,Sports,3,56.14,UPI,Completed
+T810,2026-03-14,,Jesus Kim,US,P113,Electronics,4,62.25,Credit Card,Cancelled
+T811,2026-06-11,C229,Colin Cline,IN,P103,Home,2,179.73,PayPal,Completed
+T812,2025-08-14,C26,William Freeman,CA,P17,Home,3,39.35,Debit Card,Completed
+T813,2026-01-02,C130,Gabriel Sharp,FR,P170,Clothing,3,140.12,PayPal,Returned
+T814,2026-01-11,C87,Samuel Cook,FR,P194,Home,3,281.93,Debit Card,Returned
+T815,2026-08-04,C17,Susan Valenzuela,UK,P128,Clothing,4,404.79,Credit Card,Cancelled
+T816,2026-03-27,C112,Bonnie Oneal,UK,P192,Electronics,5,254.66,UPI,Cancelled
+T817,2025-11-01,C38,Jessica Robinson,CA,P148,Home,4,256.49,Debit Card,Completed
+T818,2026-06-21,C42,Alexander Vaughn IV,AU,P174,Books,5,32.09,PayPal,Returned
+T819,2026-02-16,C70,Susan Vasquez,CA,P72,Sports,2,394.78,Credit Card,Cancelled
+T820,2026-01-19,C149,Mary Alexander,UK,P51,Clothing,4,35.14,Credit Card,Completed
+T821,2026-08-05,C205,Jeff Cooper,US,P64,Electronics,2,119.36,Credit Card,Completed
+T822,2026-05-07,C85,Diana Dunn,CA,P45,Clothing,2,15.92,Credit Card,Cancelled
+T823,2025-10-29,C216,John Ponce,US,P12,Books,1,80.11,Credit Card,Completed
+T824,2026-06-08,C125,Shane Gomez,IN,P141,Clothing,3,133.3,Credit Card,Returned
+T825,2025-09-09,C122,David Barnett,DE,P16,Books,5,483.07,PayPal,Completed
+T826,2026-02-28,C141,Randy Lee,IN,P32,Electronics,1,190.93,UPI,Returned
+T827,2026-06-26,C219,John Aguilar,AU,P21,Sports,2,184.0,Credit Card,Cancelled
+T828,2026-08-07,C141,Mark Hodges,DE,P19,Electronics,2,206.37,UPI,Returned
+T829,2026-07-06,C165,Adrienne Cunningham,US,P156,Clothing,3,286.98,Debit Card,Returned
+T830,2026-04-03,C89,Lynn Carter,US,P151,Clothing,2,153.85,PayPal,Cancelled
+T831,2025-12-08,C69,Ashley Ibarra,AU,P74,Clothing,1,39.05,PayPal,Completed
+T832,2026-01-30,C182,Wendy Jones,AU,P180,Clothing,5,250.64,UPI,Returned
+T833,2026-09-13 13:55:40.227473,C170,Mark Williams,UK,P43,Clothing,4,354.17,PayPal,Completed
+T834,2026-06-28,C86,Michele Hanson,CA,P197,Electronics,4,332.96,Credit Card,Completed
+T835,2026-02-07,C275,Raymond Chen,CA,P8,Sports,5,183.09,UPI,Returned
+T836,2026-01-13,C273,Michael Kelly,UK,P140,Clothing,3,345.78,Credit Card,Completed
+T837,2025-10-13,C27,Jack Smith,CA,P71,Home,5,340.31,Debit Card,Cancelled
+T838,2026-07-10,C222,Cathy Cochran,IN,P1,Electronics,2,-41.67313428837707,PayPal,Completed
+T839,2026-04-16,C166,Deborah Mcguire,CA,P32,Sports,4,234.0,Debit Card,Cancelled
+T840,2025-09-12,C214,Diana Osborne,FR,P195,Clothing,5,219.14,Debit Card,Completed
+T841,2025-11-21,C146,Donald Park,AU,P75,Books,3,435.3,Debit Card,Completed
+T842,2026-01-26,C35,Jacob Jones,AU,P116,Sports,3,321.29,Debit Card,Cancelled
+T843,2026-04-02,C73,Joshua Dean,DE,P177,Electronics,3,429.62,Credit Card,Cancelled
+T844,2026-05-31,C243,Steven Daniel,CA,P86,Home,2,232.04,PayPal,Cancelled
+T845,2026-01-18,C106,Jennifer Cunningham,DE,P46,Home,4,175.46,Debit Card,Completed
+T846,2026-02-27,C82,Heather Johnson,UK,P54,Electronics,3,252.51,PayPal,Returned
+T847,2026-05-03,C257,Michelle Vaughan,FR,P94,Home,4,364.62,UPI,Cancelled
+T848,2026-07-31,C257,Matthew Alexander,UK,P8,Books,5,449.64,Credit Card,Returned
+T849,2025-10-01,C58,Sheryl English,DE,P152,Home,5,140.33,Credit Card,Completed
+T850,2026-02-01,C241,Michelle Gentry,CA,P85,Clothing,1,482.38,Debit Card,Returned
+T851,2025-09-09,C130,Hailey Gonzalez,AU,P101,Home,5,235.56,Credit Card,Cancelled
+T852,2026-02-11,C130,Connie Martinez,IN,P33,Sports,5,330.63,Debit Card,Completed
+T853,2026-02-14,C220,Mark Sims,FR,P71,Sports,4,332.66,Debit Card,Returned
+T854,2026-05-20,C76,Amanda Schmidt,CA,P181,Clothing,2,97.48,Debit Card,Completed
+T855,2026-01-18,C128,Sarah Thomas,FR,P173,Electronics,1,397.95,Credit Card,Cancelled
+T856,2025-11-05,C97,Elizabeth Arellano,US,P46,Books,2,214.93,Debit Card,Completed
+T857,2025-08-21,C56,Carlos Gibson,UK,P124,Books,2,149.3,PayPal,Returned
+T858,2025-12-05,C36,Craig Black,US,P4,Books,2,84.05,Credit Card,Cancelled
+T859,2025-12-23,C6,Amanda Smith,AU,P59,Home,1,355.87,UPI,Completed
+T860,2025-08-21,C118,Steven Simon,US,P155,Books,5,327.92,PayPal,Returned
+T861,2025-08-22,C83,Dennis Robertson,US,P51,Home,2,318.91,Credit Card,Completed
+T862,2025-10-07,C182,Michael Bentley,FR,P196,Books,2,264.47,Debit Card,Completed
+T863,2026-06-15,C228,Robert Lee,FR,P199,Books,5,81.41,Debit Card,Completed
+T864,2026-01-06,C40,John Lewis,CA,P193,Clothing,5,201.44,Credit Card,Returned
+T865,2026-01-21,C253,Kevin Pittman,IN,P44,Home,4,200.16,UPI,Returned
+T866,2025-08-17,C108,John Saunders,IN,P61,Books,2,367.81,UPI,Completed
+T867,2025-12-01,C220,Veronica Rangel,IN,P61,Clothing,2,69.9,UPI,Returned
+T868,2025-09-07,C214,Misty Phillips,DE,P98,Electronics,1,226.93,UPI,Returned
+T869,2026-07-17,C156,Marcus Rivas,FR,P157,Home,1,25.84,Debit Card,Returned
+T870,2026-07-11,C83,Lisa Johnson,DE,P115,Clothing,2,81.01,UPI,Cancelled
+T871,2026-05-01,C208,Ms. Mackenzie Miles,US,P84,Sports,5,422.04,Debit Card,Completed
+T872,2026-02-10,C142,Jessica Singh,US,P97,Electronics,5,100.05,UPI,Completed
+T873,2026-09-13 13:55:40.225793,C146,Adam Santos,US,P106,Sports,5,148.47,UPI,Completed
+T874,2026-04-13,C51,Joseph Scott,UK,P41,Electronics,2,476.08,Credit Card,Completed
+T875,2026-08-13,C261,Marie Hickman MD,US,P136,Sports,5,125.88,Debit Card,Cancelled
+T876,2026-09-13 13:55:40.226270,C3,Brittany Thornton,UK,P63,Books,1,325.81,PayPal,Returned
+T877,2026-09-13 13:55:40.225763,,Sherry Welch,DE,P34,Books,4,320.74,PayPal,Returned
+T878,2026-03-05,C36,Todd Allen,FR,P157,Clothing,4,26.36,PayPal,Returned
+T879,2025-10-16,C104,Susan Powers,US,P37,Books,5,498.85,UPI,Returned
+T880,2026-07-13,C54,Crystal Johnson,CA,P141,Electronics,3,252.1,PayPal,Completed
+T881,2025-12-14,C276,Brian Lamb,US,P26,Home,4,257.79,PayPal,Cancelled
+T882,2026-01-23,C229,Jim Larsen,DE,P42,Home,1,284.18,UPI,Cancelled
+T883,2025-11-03,C137,Daniel Dunn,IN,P2,Clothing,4,229.88,Debit Card,Cancelled
+T884,2025-10-10,C243,Cindy Harris,DE,P54,Books,1,411.25,PayPal,Cancelled
+T885,2026-03-05,C41,Nancy Cooper,UK,P80,Home,1,115.19,UPI,Cancelled
+T886,2025-08-21,C143,Bryan Gilmore,FR,P44,Books,3,79.23,PayPal,Returned
+T887,2026-08-11,C198,Emily Hurst,UK,P197,Books,4,207.46,Debit Card,Cancelled
+T888,2025-12-27,C235,Nathan Raymond,AU,P9,Electronics,2,274.54,UPI,Cancelled
+T889,2025-10-18,C291,Amanda Davidson,UK,P146,Clothing,3,481.3,Credit Card,Completed
+T890,2025-09-23,C220,Matthew Boyer,IN,P140,Books,5,314.2,Credit Card,Cancelled
+T891,2025-10-06,C232,Sarah Maldonado,FR,P145,Books,2,258.89,UPI,Completed
+T892,2026-06-17,C90,Timothy Jones,CA,P155,Sports,2,356.35,Credit Card,Cancelled
+T893,2026-03-21,C100,Tony Morrow,DE,P84,Books,5,232.93,Credit Card,Cancelled
+T894,2026-03-22,C267,Richard Perry,AU,P179,Books,2,363.47,UPI,Completed
+T895,2026-04-05,C191,Lynn Hernandez,IN,P50,Clothing,4,346.81,PayPal,Completed
+T896,2025-12-01,C74,Jennifer Williams,US,P190,Clothing,2,335.28,Debit Card,Returned
+T897,2026-05-11,C102,Mary Marsh,DE,P115,Books,1,72.63,Debit Card,Cancelled
+T898,2025-08-26,C18,Jeffery West,FR,P143,Clothing,3,181.31,UPI,Returned
+T899,2026-04-24,C10,Aaron Short,DE,P93,Electronics,5,-39.897597742050316,Credit Card,Cancelled
+T900,2025-11-27,C135,Jacob Price,US,P79,Home,3,341.15,PayPal,Returned
+T901,2026-01-31,C243,Mason Phillips,AU,P67,Sports,-5,84.66,Debit Card,Cancelled
+T902,2026-04-09,C71,Eric Walker,UK,P191,Clothing,3,484.49,PayPal,Cancelled
+T903,2026-07-18,C80,Christopher Becker,US,P3,Sports,3,56.98,PayPal,Completed
+T904,2025-08-22,C264,Steven Dawson,UK,P162,Electronics,2,279.54,UPI,Returned
+T905,2026-04-26,C189,Michael Richardson,AU,P55,Electronics,5,77.43,PayPal,Completed
+T906,2026-06-07,C237,Brandon Peterson,FR,P122,Clothing,1,475.21,PayPal,Completed
+T907,2026-06-18,C162,Omar Hamilton,DE,P64,Sports,3,418.14,Credit Card,Returned
+T908,2025-09-11,C191,Valerie Moore,IN,P117,Electronics,5,193.17,Credit Card,Returned
+T909,2026-02-05,C296,April Collins,CA,P99,Sports,5,172.24,PayPal,Returned
+T910,2026-07-14,C254,Amy Ware,AU,P185,Books,3,228.06,UPI,Cancelled
+T911,2026-01-15,C221,Amy Graham,DE,P77,Home,3,412.89,PayPal,Completed
+T912,2026-03-30,C201,Mary Burgess,FR,P32,Electronics,1,151.97,Debit Card,Returned
+T913,2025-12-26,C83,Lindsay Buckley,AU,P128,Home,3,157.84,Debit Card,Completed
+T914,2026-08-10,C280,James Sanders,CA,P64,Electronics,2,316.91,Debit Card,Completed
+T915,2026-07-03,C84,Melanie Cunningham,FR,P155,Clothing,1,217.7,Credit Card,Cancelled
+T1,2026-05-11,C279,Martha Obrien,DE,P84,Books,2,401.86,Debit Card,Returned
+T917,2025-11-03,C44,Justin Powell,FR,P104,Books,3,195.24,UPI,Completed
+T918,2025-11-12,C215,Michael Wade,US,P65,Sports,2,457.09,Debit Card,Completed
+T919,2026-03-05,C223,Ian Jacobs,DE,P135,Sports,3,394.87,UPI,Cancelled
+T920,2026-06-12,C246,Michael Phillips,CA,P36,Electronics,1,234.61,UPI,Completed
+T921,2025-10-20,C214,Tammy Zavala,FR,P21,Sports,5,311.3,PayPal,Completed
+T922,2026-03-12,C230,Eric Hernandez,FR,P51,Books,5,144.02,UPI,Completed
+T923,2026-07-08,C268,Luke Holt,FR,P30,Books,3,434.51,Credit Card,Returned
+T924,2025-09-06,C241,Taylor Olson,FR,P140,Sports,1,163.02,Credit Card,Returned
+T925,2026-02-21,C231,David Gill,US,P61,Sports,5,316.99,Credit Card,Cancelled
+T926,2026-05-10,C242,Carrie Hansen,DE,P14,Electronics,2,292.88,Credit Card,Returned
+T927,2026-05-11,C285,Brian Johnson,CA,P150,Sports,1,123.67,Debit Card,Cancelled
+T928,2025-12-03,C90,Taylor Gutierrez,FR,P174,Sports,5,265.11,UPI,Cancelled
+T929,2025-10-02,C7,Bryan Fitzgerald,AU,P65,Sports,3,128.96,UPI,Cancelled
+T930,2025-10-26,C210,Mr. Joseph Franklin,IN,P10,Clothing,3,442.78,PayPal,Cancelled
+T931,2026-05-20,C85,Christian Long,FR,P185,Electronics,1,455.06,PayPal,Cancelled
+T932,2026-05-16,C56,Roger Garcia,DE,P152,Home,5,26.44,PayPal,Cancelled
+T933,2025-11-10,C128,Jonathan Oliver,FR,P36,Home,4,285.41,Debit Card,Cancelled
+T934,2026-05-20,,Megan Martinez,AU,P16,Clothing,4,94.75,PayPal,Completed
+T935,2025-11-26,C195,Brenda Guzman,DE,P90,Home,2,158.23,Debit Card,Completed
+T936,2025-12-12,C45,Kevin Salinas,US,P167,Clothing,1,425.87,Credit Card,Cancelled
+T937,2025-11-04,C224,Christina Marshall,FR,P110,Home,2,469.38,UPI,Returned
+T938,2025-11-11,C22,Amanda Chan,UK,P190,Home,5,354.45,PayPal,Completed
+T939,2026-03-14,C282,Karen Krueger,UK,P198,Clothing,2,460.43,PayPal,Returned
+T940,2025-12-06,C125,Jessica Rowe,DE,P181,Electronics,2,432.23,PayPal,Returned
+T941,2026-06-17,C75,Kathleen Taylor,CA,P22,Electronics,4,454.32,Credit Card,Completed
+T942,2026-04-24,C145,Anna Rose,DE,P59,Sports,4,70.69,Credit Card,Cancelled
+T943,2026-03-29,C94,Margaret Bailey,AU,P94,Sports,3,307.26,UPI,Completed
+T944,2026-02-28,C126,Melinda Robinson,UK,P22,Sports,4,64.25,Credit Card,Cancelled
+T945,2026-02-03,C132,Julian Fox,AU,P153,Clothing,5,94.88,Credit Card,Completed
+T1,2026-01-01,C34,Douglas Elliott,IN,P20,Books,5,256.11,UPI,Returned
+T947,2025-11-07,C266,Amanda Thompson,DE,P172,Sports,3,133.47,UPI,Cancelled
+T948,2025-12-28,C216,Jessica Skinner,AU,P56,Clothing,4,191.31,Debit Card,Returned
+T949,2025-11-02,C186,Anthony Myers,AU,P133,Clothing,2,218.88,UPI,Completed
+T950,2026-06-21,C143,Jason Hart,FR,P73,Clothing,3,292.23,Credit Card,Returned
+T951,2026-03-23,C18,Daisy Bond,UK,P36,Electronics,4,125.76,Credit Card,Returned
+T952,2026-03-07,C223,Charles Warren,XYZ,P71,Clothing,4,433.64,PayPal,Cancelled
+T953,2025-09-20,C143,Jeffrey Pace,UK,P97,Electronics,1,27.99,Debit Card,Completed
+T954,2026-03-16,C76,Cassandra Perez,UK,P128,Books,5,245.32,Credit Card,Cancelled
+T955,2025-11-27,C86,Ryan Thompson,US,P92,Clothing,1,81.0,Debit Card,Cancelled
+T956,2026-04-08,C127,Jeffrey Kelly,DE,P24,Home,1,202.87,PayPal,Returned
+T957,2026-07-04,C271,Ashley Green,IN,P144,Clothing,2,135.6,Debit Card,Cancelled
+T958,2026-02-04,C140,Joe Matthews,FR,P81,Electronics,4,115.21,PayPal,Completed
+T959,2026-06-23,C46,Tony Allen,IN,P197,Books,5,312.75,Credit Card,Returned
+T960,2026-05-22,C237,Jesus Thompson,DE,P49,Clothing,1,115.92,UPI,Returned
+T961,2026-08-12,C221,Cheryl Goodwin,IN,P97,Books,3,45.46,PayPal,Returned
+T962,2025-09-24,C72,David Romero,CA,P105,Books,3,325.18,UPI,Returned
+T963,2026-06-17,,Natalie Holmes,IN,P66,Home,1,70.44,UPI,Completed
+T964,2025-12-09,C178,Dr. Scott Joyce,AU,P193,Home,4,187.08,Credit Card,Returned
+T965,2026-03-02,C117,Amber Wright,UK,P55,Clothing,1,171.75,PayPal,Returned
+T966,2026-03-17,C175,Kathryn Clark,CA,P176,Home,1,415.55,UPI,Cancelled
+T967,2025-12-26,C202,Kristina Clark,XYZ,P4,Clothing,1,84.79,UPI,Cancelled
+T968,2026-01-03,C68,Nicole Lam,DE,P81,Home,4,434.53,PayPal,Completed
+T969,2025-11-13,C228,Paula Smith,IN,P194,Sports,4,385.05,PayPal,Returned
+T970,2026-03-05,C175,David Riley,DE,P100,Electronics,4,404.55,UPI,Cancelled
+T971,2026-03-05,C148,Michael Allen,US,P53,Clothing,2,335.82,UPI,Completed
+T972,2025-09-11,C38,Melissa Rodriguez,DE,P120,Books,3,30.89,PayPal,Returned
+T973,2026-01-06,C175,Janice Simpson,US,P6,Clothing,4,-89.62215353823669,Debit Card,Cancelled
+T974,2025-12-08,C101,Ms. Amanda Small,IN,P39,Clothing,2,431.31,Debit Card,Completed
+T975,2026-09-13 13:55:40.227580,C98,Lauren Miller,FR,P167,Electronics,4,-36.75992583467038,Credit Card,Cancelled
+T976,2025-09-25,C102,Kevin Hoffman,US,P188,Sports,1,210.75,PayPal,Completed
+T977,2026-07-11,C289,Robert Montoya,DE,P34,Electronics,4,424.79,PayPal,Completed
+T978,2025-09-17,C300,Natalie Anderson,IN,P75,Electronics,3,144.83,Debit Card,Completed
+T979,2026-03-08,C58,Bruce Meadows,UK,P60,Home,5,268.15,PayPal,Cancelled
+T980,2026-02-04,C230,Anne Rivers,CA,P143,Electronics,3,294.11,PayPal,Cancelled
+T981,2026-06-21,C121,Vernon Gonzalez,UK,P11,Books,3,140.37,UPI,Returned
+T982,2026-07-28,C201,Christina Green,UK,P67,Clothing,1,195.63,Credit Card,Cancelled
+T983,2026-07-30,C218,Kenneth Wilkinson,CA,P149,Sports,3,183.53,Debit Card,Returned
+T984,2025-10-16,C115,Joseph Mullen,FR,P111,Electronics,3,247.58,PayPal,Returned
+T985,2025-08-13,C239,William Hoover,IN,P93,Home,3,338.2,UPI,Returned
+T986,2026-03-09,C175,Nathaniel Diaz,US,P100,Sports,1,82.67,Credit Card,Returned
+T987,2025-09-20,C110,Kristopher Armstrong,UK,P97,Home,3,342.02,Debit Card,Completed
+T988,2026-03-05,C173,Joseph Johnston,AU,P64,Home,2,417.85,UPI,Completed
+T989,2025-12-29,C279,Emily Mckinney MD,CA,P14,Electronics,5,473.81,PayPal,Returned
+T990,2026-04-23,C60,Justin Oconnor,DE,P66,Clothing,5,342.06,Credit Card,Completed
+T991,2025-11-25,C244,Stephen Burke,US,P61,Books,1,489.05,Debit Card,Cancelled
+T992,2025-09-01,C87,Lisa Greene,CA,P177,Books,1,163.03,Debit Card,Completed
+T993,2026-02-26,C122,Victor Garcia,UK,P123,Home,4,11.94,Debit Card,Returned
+T994,2025-10-14,C177,Megan Brown,AU,P108,Home,5,187.27,PayPal,Completed
+T995,2025-09-27,C291,Joshua Michael,CA,P131,Electronics,3,55.94,UPI,Completed
+T996,2025-12-01,C151,Jillian Wilson,CA,P10,Electronics,5,185.55,Debit Card,Returned
+T997,2025-09-17,C46,Joshua Hess,IN,P34,Sports,5,295.72,PayPal,Returned
+T998,2025-08-19,C181,Kelly Martin,FR,P61,Clothing,4,454.41,Credit Card,Cancelled
+T999,2026-05-03,C29,Dennis Woods,DE,P45,Clothing,2,476.19,UPI,Returned
+T1000,2025-12-08,C169,Joel Park,AU,P31,Electronics,5,219.72,PayPal,Cancelled
