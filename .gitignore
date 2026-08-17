@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# dbt
+dbt_project/.dbt/
+dbt_project/dbt_ecomm/target/
+dbt_project/dbt_ecomm/logs/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
